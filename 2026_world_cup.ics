@@ -1,0 +1,1389 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ToolCenter//2026 World Cup TW Schedule ZH//TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 世界杯比赛（北京时间）
+X-WR-TIMEZONE:Asia/beijing
+BEGIN:VTIMEZONE
+TZID:Asia/beijing
+X-LIC-LOCATION:Asia/beijing
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fwc26-1-20260612T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260612T030000
+DTEND;TZID=Asia/beijing:20260612T050000
+SUMMARY:老练照相馆/世界杯2026｜A组｜墨西哥 vs 南非
+LOCATION:阿兹台克人体育场（墨西哥城）\, 墨西哥城\, 墨西哥
+DESCRIPTION:比赛场次：1\n对战：墨西哥 vs 南非\n小组赛：A
+ 组\n北京时间：2026/06/12 03:00（UTC+8）\n当地时间：2026/06/11 1
+ 3:00（America/Mexico_City）\n对战(英文)：Mexico vs South Africa\n
+ 地点：阿兹台克人体育场（墨西哥城）｜墨西哥城｜墨西哥\n提
+ 醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-2-20260612T100000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260612T100000
+DTEND;TZID=Asia/beijing:20260612T120000
+SUMMARY:老练照相馆/世界杯2026｜A组｜韩国 vs 捷克
+LOCATION:Estadio Akron（阿克伦体育场）\, 扎波潘\, 墨西哥
+DESCRIPTION:比赛场次：2\n对战：韩国 vs 捷克
+\n小组赛：A组\n北京时间：2026/06/12 10:00（UTC+8）\n
+ 当地时间：2026/06/11 20:00（America/Mexico_City）\n对战(英文)
+ ：South Korea vs Czech Republic\n
+地点：Estadio Akron（阿克伦体育场）｜扎波潘｜墨西哥\n
+ 提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-3-20260613T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260613T030000
+DTEND;TZID=Asia/beijing:20260613T050000
+SUMMARY:老练照相馆/世界杯2026｜B组｜加拿大 vs 波斯尼亚
+LOCATION:BOM球场\,BMO Field（多伦多）\, 加拿大
+DESCRIPTION:比赛场次：3\n对战：加拿大 vs 波斯尼亚\n小组赛：B组\n北京时间
+ ：2026/06/13 03:00（UTC+8）\n当地时间：2026/06/12 15:00（America/
+ Toronto）\n对战(英文)：Canada vs Bosnia\n
+地点：BOM球场｜多伦多｜加拿大\
+ n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-4-20260613T090000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260613T090000
+DTEND;TZID=Asia/beijing:20260613T110000
+SUMMARY:老练照相馆/世界杯2026｜D组｜美国 vs 巴拉圭
+LOCATION:索菲体育场（Inglewood）\, 洛杉矶\, 美国
+DESCRIPTION:比赛场次：4\n对战：美国 vs 巴拉圭\n小组赛：D
+ 组\n北京时间：2026/06/13 09:00（UTC+8）\n当地时间：2026/06/12 1
+ 8:00（America/Los_Angeles）\n对战(英文)：USA vs Paraguay\n地点：
+索菲体育场｜洛杉矶｜美国\n提醒：比赛以官
+方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-5-20260614T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260614T030000
+DTEND;TZID=Asia/beijing:20260614T050000
+SUMMARY:老练照相馆/世界杯2026｜B组｜卡塔尔 vs 瑞士
+LOCATION:李维斯体育场\, 圣克拉拉\, 美国
+DESCRIPTION:比赛场次：5\n对战：卡塔尔 vs 瑞士\n小组赛：B组\n
+ 北京时间：2026/06/14 03:00（UTC+8）\n当地时间：2026/06/13 12:0
+ 0（America/Los_Angeles）\n对战(英文)：Qatar vs Switzerland\n地点
+ ：李维斯体育场｜圣克拉拉｜美国\n提醒
+ ：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-6-20260614T060000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260614T060000
+DTEND;TZID=Asia/beijing:20260614T080000
+SUMMARY:老练照相馆/世界杯2026｜C组｜巴西 vs 摩洛哥
+LOCATION:大都会体育场, 东罗塞福\, 新泽西\, 美国
+DESCRIPTION:比赛场次：6\n对战：巴西 vs 摩洛哥\n小组赛：C
+ 组\n北京时间：2026/06/14 06:00（UTC+8）\n当地时间：2026/06/13 1
+ 8:00（America/New_York）\n对战(英文)：Brazil vs Morocco\n地点：大
+都会体育场, 东罗塞福｜新泽西｜美国\n提醒：比赛
+ 以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-7-20260614T090000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260614T090000
+DTEND;TZID=Asia/beijing:20260614T110000
+SUMMARY:老练照相馆/世界杯2026｜C组｜海地 vs 苏格兰
+LOCATION:吉列体育场（福克斯堡）\, 福克斯堡\, 美国
+DESCRIPTION:比赛场次：7\n对战：海地 vs 苏格兰\n小组赛：C
+ 组\n北京时间：2026/06/14 09:00（UTC+8）\n当地时间：2026/06/13 2
+ 1:00（America/New_York）\n对战(英文)：Haiti vs Scotland\n地点：
+吉列体育场（福克斯堡）｜福克斯堡｜美国\n提醒：比赛
+ 以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-8-20260614T120000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260614T120000
+DTEND;TZID=Asia/beijing:20260614T140000
+SUMMARY:老练照相馆/世界杯2026｜D组｜澳大利亚 vs土耳其
+LOCATION:卑诗省广场,（温哥华）\, 温哥华\, 加拿大
+DESCRIPTION:比赛场次：8\n对战：澳大利亚 vs 土耳其
+\n小组赛：D组\n北京时间：2026/06/14 12:00（U
+ TC+8）\n当地时间：2026/06/13 21:00（America/Vancouver）\n对战(
+ 英文)：Australia vs Turkey\n地点：卑诗省广场
+（温哥华）｜温哥华｜加拿大\n提醒：比赛以官方公告为
+主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-9-20260615T010000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260615T010000
+DTEND;TZID=Asia/beijing:20260615T030000
+SUMMARY:老练照相馆/世界杯2026｜E组｜德国 vs 库拉索岛
+LOCATION:NRG体育场（休斯顿）\, 休士顿\, 美国
+DESCRIPTION:比赛场次：9\n对战：德国vs 库拉索岛\n小组赛：E
+ 组\n北京时间：2026/06/15 01:00（UTC+8）\n当地时间：2026/06/14 1
+ 2:00（America/Chicago）\n对战(英文)：Germany vs Curacao\n地点：N
+RG体育场（休斯顿）｜休士顿｜美国\n提醒：比赛可能依
+ 官方公告調整。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-10-20260615T040000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260615T040000
+DTEND;TZID=Asia/beijing:20260615T060000
+SUMMARY:老练照相馆/世界杯2026｜F组｜荷兰 vs 日本
+LOCATION:AT&T体育场（阿灵顿）\, 阿灵顿\, 美国
+DESCRIPTION:比赛场次：10\n对战：荷兰 vs 日本\n小组赛：F组\
+ n北京时间：2026/06/15 04:00（UTC+8）\n当地时间：2026/06/14 15:
+ 00（America/Chicago）\n对战(英文)：Netherlands vs Japan\n地点：A
+ T&T 体育场（阿灵顿）｜阿灵顿｜美国\n提醒：比赛以官
+ 方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-11-20260615T070000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260615T070000
+DTEND;TZID=Asia/beijing:20260615T090000
+SUMMARY:老练照相馆/世界杯2026｜E组｜科特迪瓦 vs 厄瓜多尔
+LOCATION:林肯金融球场（费城）\, 费城\, 美国
+DESCRIPTION:比赛场次：11\n对战：科特迪瓦 vs 厄瓜多尔\n小组赛
+ ：E组\n北京时间：2026/06/15 07:00（UTC+8）\n当地时间：202
+ 6/06/14 19:00（America/New_York）\n对战(英文)：Ivory Coast vs Ecuad
+ or\n地点：林肯金融球场（费城）｜费城｜美国\n提醒
+ ：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-12-20260615T100000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260615T100000
+DTEND;TZID=Asia/beijing:20260615T120000
+SUMMARY:老练照相馆/世界杯2026｜F组｜瑞典vs  突尼斯
+LOCATION:西班牙外换银行（Guadalup）\,瓜达卢佩\, 墨西哥
+DESCRIPTION:比赛场次：12\n对战：瑞典/ vs 突尼斯\n
+小组赛：F组\n北京时间：2026/06/15 10:00
+ （UTC+8）\n当地时间：2026/06/14 20:00（America/Monterrey）\n对
+ 战(英文)：Sweden vs Tunisia\n地点：Estadio B
+ BVA（Guadalupe）｜瓜达卢佩｜墨西哥\n提醒：比赛以官方公
+ 告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-13-20260616T000000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260616T000000
+DTEND;TZID=Asia/beijing:20260616T020000
+SUMMARY:老练照相馆/世界杯2026｜H组｜西班牙 vs 佛得角
+LOCATION:梅赛德斯奔驰体育场（亚特兰大）\, 亚特兰大\, 美国
+DESCRIPTION:比赛场次：13\n对战：西班牙 vs 佛得角\n小组赛：
+ H组\n北京时间：2026/06/16 00:00（UTC+8）\n当地时间：2026/0
+ 6/15 12:00（America/New_York）\n对战(英文)：Spain vs Cape Verde\n
+ 地点：梅赛德斯奔驰体育场（亚特兰大）｜亚特兰大｜美国\n
+ 提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-14-20260616T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260616T030000
+DTEND;TZID=Asia/beijing:20260616T050000
+SUMMARY:老练照相馆/世界杯2026｜G组｜比利时 vs 埃及
+LOCATION:流明球场（西雅图）\, 西雅图\, 美国
+DESCRIPTION:比赛场次：14\n对战：比利时 vs 埃及\n小组赛：G
+ 组\n北京时间：2026/06/16 03:00（UTC+8）\n当地时间：2026/06/1
+ 5 12:00（America/Los_Angeles）\n对战(英文)：Belgium vs Egypt\n地
+ 點：流明球场（西雅图）｜西雅图｜美国\n提醒：比赛
+以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-15-20260616T060000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260616T060000
+DTEND;TZID=Asia/beijing:20260616T080000
+SUMMARY:老练照相馆/世界杯2026｜H组｜沙特阿拉伯vs乌拉圭
+LOCATION:硬石体育场（迈阿密）\, 迈阿密\, 美国
+DESCRIPTION:比赛场次：15\n对战：沙特阿拉伯vs乌拉圭\n
+ 小组赛：H组\n北京时间：2026/06/16 06:00（UTC+8）\n当地时间
+ ：2026/06/15 18:00（America/New_York）\n对战(英文)：Saudi Arabia v
+ s Uruguay\n地点：硬石体育场（迈阿密）｜迈阿密｜
+ 美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-16-20260616T090000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260616T090000
+DTEND;TZID=Asia/beijing:20260616T110000
+SUMMARY:老练照相馆/世界杯2026｜G组｜伊朗 vs 新西兰
+LOCATION:索菲体育场（Inglewood）\, 洛杉矶\, 美国
+DESCRIPTION:比赛场次：16\n对战：伊朗 vs 新西兰\n小组赛：G
+ 组\n北京时间：2026/06/16 09:00（UTC+8）\n当地时间：2026/06/1
+ 5 18:00（America/Los_Angeles）\n对战(英文)：Iran vs New Zealand\n
+ 地点：索菲体育场（Inglewood）｜洛杉矶｜美国\n提醒：比
+ 赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-17-20260617T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260617T030000
+DTEND;TZID=Asia/beijing:20260617T050000
+SUMMARY:老练照相馆/世界杯2026｜I组｜法国vs 塞内加尔
+LOCATION:大都会体育场, 东罗塞福\, 新泽西\, 美国
+DESCRIPTION:比赛场次：17\n对战：法国vs 塞内加尔\n小组赛：
+ I组\n北京时间：2026/06/17 03:00（UTC+8）\n当地时间：2026/0
+ 6/16 15:00（America/New_York）\n对战(英文)：France vs Senegal\n地
+ 點：大都会体育场, 东罗塞福｜新泽西｜美国\n提醒：
+ 比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-18-20260617T060000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260617T060000
+DTEND;TZID=Asia/beijing:20260617T080000
+SUMMARY:老练照相馆/世界杯2026｜I组｜伊拉克vs 挪威
+LOCATION:吉列体育场（福克斯堡）\, 福克斯堡\, 美国
+DESCRIPTION:比赛场次：18\n对战：伊拉克vs
+  挪威\n小组赛：I组\n北京时间：2026/06/17 06:00（UTC+8）\n當
+ 地时间：2026/06/16 18:00（America/New_York）\n对战(英文)：Iraq vs 
+Norway\n地点：吉列体育场（福克斯堡）｜
+ 福克斯堡｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-19-20260617T090000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260617T090000
+DTEND;TZID=Asia/beijing:20260617T110000
+SUMMARY:老练照相馆/世界杯2026｜J组｜阿根廷 vs 阿尔及利亚
+LOCATION:箭头体育馆（堪萨斯城）\, 堪萨斯城\, 美国
+DESCRIPTION:比赛场次：19\n对战：阿根廷 vs 阿尔及利亚\n小
+组赛：J组\n北京时间：2026/06/17 09:00（UTC+8）\n当地时间：
+ 2026/06/16 20:00（America/Chicago）\n对战(英文)：Argentina vs Alger
+ ia\n地点：箭头体育馆（堪萨斯城）｜堪萨斯城｜美国\n
+ 提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-20-20260617T120000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260617T120000
+DTEND;TZID=Asia/beijing:20260617T140000
+SUMMARY:老练照相馆/世界杯2026｜J组｜奥地利 vs 约旦
+LOCATION:李维斯体育场\, 圣克拉拉\, 美国
+DESCRIPTION:比赛场次：20\n对战：奥地利 vs 约旦\n小组赛：J
+组\n北京时间：2026/06/17 12:00（UTC+8）\n当地时间：2026/06/1
+ 6 21:00（America/Los_Angeles）\n对战(英文)：Austria vs Jordan\n地
+ 點：李维斯体育场｜圣克拉拉｜美国\n提
+ 醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-21-20260618T010000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260618T010000
+DTEND;TZID=Asia/beijing:20260618T030000
+SUMMARY:老练照相馆/世界杯2026｜K组｜葡萄牙 vs 刚果民主共和国
+LOCATION:NRG 体育场（休士顿）\, 休士顿\, 美国
+DESCRIPTION:比赛场次：21\n对战：葡萄牙 vs 刚果民主共和国\n
+小组赛：K组\n北京时间：2026/06/18 
+ 01:00（UTC+8）\n当地时间：2026/06/17 12:00（America/Chicago）\n
+ 对战(英文)：Portugal vs DR Congo\n地点：NRG 
+ 体育场（休士顿）｜休士顿｜美国\n提醒：比赛以官方
+ 公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-22-20260618T040000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260618T040000
+DTEND;TZID=Asia/beijing:20260618T060000
+SUMMARY:老练照相馆/世界杯2026｜L组｜英格兰vs克罗地亚
+LOCATION:AT&T 体育场（阿灵顿）\, 阿灵顿\, 美国
+DESCRIPTION:比赛场次：22\n对战：英格兰vs克罗地亚\n小
+组赛：L组\n北京时间：2026/06/18 04:00（UTC+8）\n当地时间：
+ 2026/06/17 15:00（America/Chicago）\n对战(英文)：England vs Croatia
+ \n地点：AT&T 体育场（阿灵顿）｜阿灵顿｜美国\n提醒：比
+赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-23-20260618T070000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260618T070000
+DTEND;TZID=Asia/beijing:20260618T090000
+SUMMARY:老练照相馆/世界杯2026｜L组｜加纳 vs 巴拿马
+LOCATION:BOM球场\, 多伦多\, 加拿大
+DESCRIPTION:比赛场次：23\n对战：加纳 vs 巴拿马\n小组赛：L
+ 组\n北京时间：2026/06/18 07:00（UTC+8）\n当地时间：2026/06/1
+ 7 19:00（America/Toronto）\n对战(英文)：Ghana vs Panama\n地点：B
+ MO 球场（多伦多）｜多伦多｜加拿大\n提醒：比赛以官方
+ 公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-24-20260618T100000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260618T100000
+DTEND;TZID=Asia/beijing:20260618T120000
+SUMMARY:老练照相馆/世界杯2026｜K组｜乌兹别克斯坦vs 哥伦比亚
+LOCATION:阿兹台克人体育场（墨西哥城）\, 墨西哥城\, 墨西哥
+DESCRIPTION:比赛场次：24\n对战：乌兹别克斯坦vs 哥伦比亚\n小
+组赛：K组\n北京时间：2026/06/18 10:00（UTC+8）\n当地时间：
+ 2026/06/17 20:00（America/Mexico_City）\n对战(英文)：Uzbekistan vs 
+ Colombia\n地点：阿兹台克人体育场（墨西哥城）｜墨西哥城｜墨
+ 西哥\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-25-20260619T000000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260619T000000
+DTEND;TZID=Asia/beijing:20260619T020000
+SUMMARY:老练照相馆/世界杯2026｜A组｜捷克 vs 南非
+LOCATION:梅赛德斯-奔驰体育场（亚特兰大）\, 亚特兰大\, 美国
+DESCRIPTION:比赛场次：25\n对战：捷克vs 南非\n
+小组赛：A组\n北京时间：2026/06/19 00:00（UTC+8
+ ）\n当地时间：2026/06/18 12:00（America/New_York）\n对战(英文)
+ ：Czech Republic vs South Africa\n
+地点：梅赛德斯-奔驰体育场（亚特兰大）｜亚特兰大｜美
+ 国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-26-20260619T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260619T030000温哥华
+DTEND;TZID=Asia/beijing:20260619T050000
+SUMMARY:老练照相馆/世界杯2026｜B组｜瑞士 vs 波斯尼亚
+LOCATION:索菲体育场（Inglewood）\, 洛杉矶\, 美国
+DESCRIPTION:比赛场次：26\n对战：瑞士 vs 波斯尼亚\n
+小组赛：B组\n北京时间： 2026/06/19 03:00（UTC+8
+）\n当地时间：2026/06/18 12:00（America/Los
+ _Angeles）\n对战(英文)：Switzerland vs Bosnia\n
+地点：索菲体育场（Inglewood）｜洛杉矶
+ ｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-27-20260619T060000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260619T060000
+DTEND;TZID=Asia/beijing:20260619T080000
+SUMMARY:老练照相馆/世界杯2026｜B组｜加拿大 vs 卡塔尔
+LOCATION:卑诗省广场（温哥华）\, 温哥华\, 加拿大
+DESCRIPTION:比赛场次：27\n对战：加拿大 vs 卡塔尔\n小组赛：B
+ 组\n北京时间：2026/06/19 06:00（UTC+8）\n当地时间：2026/06/1
+ 8 15:00（America/Vancouver）\n对战(英文)：Canada vs Qatar\n地点
+ ：卑诗省广场（温哥华）｜温哥华｜加拿大\n提醒：比赛以
+ 官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-28-20260619T090000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260619T090000
+DTEND;TZID=Asia/beijing:20260619T110000
+SUMMARY:老练照相馆/世界杯2026｜A组｜墨西哥 vs 韩国
+LOCATION:Estadio Akron（阿克伦体育场）\, 扎波潘\, 墨西哥
+DESCRIPTION:比赛场次：28\n对战：墨西哥 vs 韩国\n小组赛：A
+ 组\n北京时间：2026/06/19 09:00（UTC+8）\n当地时间：2026/06/1
+ 8 19:00（America/Mexico_City）\n对战(英文)：Mexico vs South Korea\n
+ 地点：Estadio Akron（阿克伦体育场）｜扎波潘｜墨西哥\n提
+ 醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-29-20260620T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260620T030000
+DTEND;TZID=Asia/beijing:20260620T050000
+SUMMARY:老练照相馆/世界杯2026｜D组｜美国 vs 澳大利亚
+LOCATION:流明球场（西雅图）\, 西雅图\, 美国
+DESCRIPTION:比赛场次：29\n对战：美国 vs 澳大利亚\n小组赛：D组\
+ n北京时间：2026/06/20 03:00（UTC+8）\n当地时间：2026/06/19 12:
+ 00（America/Los_Angeles）\n对战(英文)：USA vs Australia\n地点：L
+ umen Field（西雅图）｜西雅图｜美国\n提醒：比赛可能依
+ 官方公告調整。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-30-20260620T060000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260620T060000
+DTEND;TZID=Asia/beijing:20260620T080000
+SUMMARY:老练照相馆/世界杯2026｜C组｜苏格兰 vs 摩洛哥
+LOCATION:吉列体育场（福克斯堡）\, 福克斯堡\, 美国
+DESCRIPTION:比赛场次：30\n对战：苏格兰 vs 摩洛哥\n小组赛：
+ C组\n北京时间：2026/06/20 06:00（UTC+8）\n当地时间：2026/0
+ 6/19 18:00（America/New_York）\n对战(英文)：Scotland vs Morocco\n
+ 地点：吉列体育场（福克斯堡）｜福克斯堡｜美国\n提
+ 醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-31-20260620T090000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260620T090000
+DTEND;TZID=Asia/beijing:20260620T110000
+SUMMARY:老练照相馆/世界杯2026｜C组｜巴西 vs 海地
+LOCATION:林肯金融球场（费城）\, 费城\, 美国
+DESCRIPTION:比赛场次：31\n对战：巴西 vs 海地\n小组赛：C组\
+ n北京时间：2026/06/20 09:00（UTC+8）\n当地时间：2026/06/19 21:
+ 00（America/New_York）\n对战(英文)：Brazil vs Haiti\n地点：林肯
+金融球场（费城）｜费城｜美国\n提醒：比赛可能依
+ 官方公告調整。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-32-20260620T120000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260620T120000
+DTEND;TZID=Asia/beijing:20260620T140000
+SUMMARY:老练照相馆/世界杯2026｜D组｜土耳其 vs 巴拉圭
+LOCATION:李维斯体育场\, 圣克拉拉\, 美国
+DESCRIPTION:比赛场次：32\n对战：土耳其 vs 巴拉圭\n
+小组赛：D组\n北京时间：2026/06/20 12:00
+ （UTC+8）\n当地时间：2026/06/19 21:00（America/Los_Angeles）\n对
+ 战(英文)：Turkey vs Paraguay\n地点：李维斯
+ 体育场（圣克拉拉）｜圣克拉拉｜美国\n提醒：比赛
+ 以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-33-20260621T010000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260621T010000
+DTEND;TZID=Asia/beijing:20260621T030000
+SUMMARY:老练照相馆/世界杯2026｜F组｜荷兰 vs瑞典
+LOCATION:NRG 体育场（休士顿）\, 休士顿\, 美国
+DESCRIPTION:比赛场次：33\n对战：荷兰 vs  瑞典\n
+小组赛：F组\n北京时间：2026/06/21 01:00（UTC+
+ 8）\n当地时间：2026/06/20 12:00（America/Chicago）\n对战(英文)
+ ：Netherlands vs Sweden\n地点：NRG 体育场（
+ 休士顿）｜休士顿｜美国\n提醒：比赛可能依官方公告調
+ 整。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-34-20260621T040000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260621T040000
+DTEND;TZID=Asia/beijing:20260621T060000
+SUMMARY:老练照相馆/世界杯2026｜E组｜德国vs 科特迪瓦
+LOCATION:BOM球场\, 多伦多\, 加拿大
+DESCRIPTION:比赛场次：34\n对战：德国vs 科特迪瓦\n小组赛：
+ E组\n北京时间：2026/06/21 04:00（UTC+8）\n当地时间：2026/0
+ 6/20 16:00（America/Toronto）\n对战(英文)：Germany vs Ivory Coast\n
+ 地点：BOM球场｜多伦多｜加拿大\n提醒：比赛
+ 以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-35-20260621T080000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260621T080000
+DTEND;TZID=Asia/beijing:20260621T100000
+SUMMARY:老练照相馆/世界杯2026｜E组｜厄瓜多尔 vs 库拉索岛
+LOCATION:箭头体育馆（堪萨斯城）\, 堪萨斯城\, 美国
+DESCRIPTION:比赛场次：35\n对战：厄瓜多尔 vs 库拉索岛\n小组赛：
+ E组\n北京时间：2026/06/21 08:00（UTC+8）\n当地时间：2026/0
+ 6/20 19:00（America/Chicago）\n对战(英文)：Ecuador vs Curacao\n地
+ 點：箭头体育馆（堪萨斯城）｜堪萨斯城｜美国\n提醒
+ ：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-36-20260621T120000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260621T120000
+DTEND;TZID=Asia/beijing:20260621T140000
+SUMMARY:老练照相馆/世界杯2026｜F组｜突尼斯 vs 日本
+LOCATION:西班牙外换银行（Guadalupe）\,瓜达卢佩\, 墨西哥
+DESCRIPTION:比赛场次：36\n对战：突尼斯 vs 日本\n小组赛：
+ F组\n北京时间：2026/06/21 12:00（UTC+8）\n当地时间：2026/0
+ 6/20 22:00（America/Monterrey）\n对战(英文)：Tunisia vs Japan\n地
+ 點：西班牙外换银行（Guadalupe）｜瓜达卢佩｜墨西哥\n提醒：賽
+ 程以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-37-20260622T000000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260622T000000
+DTEND;TZID=Asia/beijing:20260622T020000
+SUMMARY:老练照相馆/世界杯2026｜H组｜西班牙 vs沙特阿拉伯
+LOCATION:梅赛德斯-奔驰体育场（亚特兰大）\, 亚特兰大\, 美国
+DESCRIPTION:比赛场次：37\n对战：西班牙 vs沙特阿拉伯\n
+ 小组赛：H组\n北京时间：2026/06/22 00:00（UTC+8）\n当地时间
+ ：2026/06/21 12:00（America/New_York）\n对战(英文)：Spain vs Saudi
+  Arabia\n地点：梅赛德斯-奔驰体育场（亚特兰大）｜亚特兰大
+ ｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-38-20260622T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260622T030000
+DTEND;TZID=Asia/beijing:20260622T050000
+SUMMARY:老练照相馆/世界杯2026｜G组｜比利时 vs 伊朗
+LOCATION:索菲体育场（Inglewood）\, 洛杉矶\, 美国
+DESCRIPTION:比赛场次：38\n对战：比利时 vs 伊朗\n小组赛：G
+组\n北京时间：2026/06/22 03:00（UTC+8）\n当地时间：2026/06/2
+ 1 12:00（America/Los_Angeles）\n对战(英文)：Belgium vs Iran\n地点
+ ：索菲体育场（Inglewood）｜洛杉矶｜美国\n提醒：比赛可
+ 能依官方公告調整。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-39-20260622T060000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260622T060000
+DTEND;TZID=Asia/beijing:20260622T080000
+SUMMARY:老练照相馆/世界杯2026｜H组｜乌拉圭 vs 佛得角
+LOCATION:硬石体育场（迈阿密）\, 迈阿密\, 美国
+DESCRIPTION:比赛场次：39\n对战：乌拉圭 vs 佛得角\n小组赛：
+ H组\n北京时间：2026/06/22 06:00（UTC+8）\n当地时间：2026/0
+ 6/21 18:00（America/New_York）\n对战(英文)：Uruguay vs Cape Verde\n
+ 地点：硬石体育场（迈阿密）｜迈阿密｜美国\n提
+ 醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-40-20260622T090000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260622T090000
+DTEND;TZID=Asia/beijing:20260622T110000
+SUMMARY:老练照相馆/世界杯2026｜G组｜新西兰 vs 埃及
+LOCATION:卑诗省广场（温哥华）\, 温哥华\, 加拿大
+DESCRIPTION:比赛场次：40\n对战：新西兰 vs 埃及\n小组赛：G
+ 组\n北京时间：2026/06/22 09:00（UTC+8）\n当地时间：2026/06/2
+ 1 18:00（America/Vancouver）\n对战(英文)：New Zealand vs Egypt\n地
+ 點：卑诗省广场（温哥华）｜温哥华｜加拿大\n提醒：比赛可
+ 能依官方公告調整。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-41-20260623T010000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260623T010000
+DTEND;TZID=Asia/beijing:20260623T030000
+SUMMARY:老练照相馆/世界杯2026｜J组｜阿根廷 vs 奥地利
+LOCATION:AT&T 体育场（阿灵顿）\, 阿灵顿\, 美国
+DESCRIPTION:比赛场次：41\n对战：阿根廷 vs 奥地利\n小组赛：
+ J组\n北京时间：2026/06/23 01:00（UTC+8）\n当地时间：2026/0
+ 6/22 12:00（America/Chicago）\n对战(英文)：Argentina vs Austria\n
+ 地点：AT&T 体育场（阿灵顿）｜阿灵顿｜美国\n提醒：比赛
+ 以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-42-20260623T050000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260623T050000
+DTEND;TZID=Asia/beijing:20260623T070000
+SUMMARY:老练照相馆/世界杯2026｜I组｜法国vs 伊拉克
+LOCATION:林肯金融球场（费城）\, 费城\, 美国
+DESCRIPTION:比赛场次：42\n对战：法国vs 玻利維亞/伊拉克/
+ 蘇利南\n小组赛：I组\n北京时间：2026/06/23 05:00（UTC+8）\n
+ 当地时间：2026/06/22 17:00（America/New_York）\n对战(英文)：Fr
+ ance vs Iraq\n地点：林肯金融球场（费城
+ ）｜费城｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-43-20260623T080000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260623T080000
+DTEND;TZID=Asia/beijing:20260623T100000
+SUMMARY:老练照相馆/世界杯2026｜I组｜挪威 vs 塞内加尔
+LOCATION:BOM球场\, 多伦多\, 加拿大
+DESCRIPTION:比赛场次：43\n对战：挪威 vs 塞内加尔\n小组赛：
+ I组\n北京时间：2026/06/23 08:00（UTC+8）\n当地时间：2026/0
+ 6/22 20:00（America/Toronto）\n对战(英文)：Norway vs Senegal\n地
+ 點：BOM球场｜多伦多｜加拿大\n提醒：比赛可
+ 能依官方公告調整。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-44-20260623T110000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260623T110000
+DTEND;TZID=Asia/beijing:20260623T130000
+SUMMARY:老练照相馆/世界杯2026｜J组｜约旦 vs 阿尔及利亚
+LOCATION:李维斯体育场\, 圣克拉拉\, 美国
+DESCRIPTION:比赛场次：44\n对战：约旦 vs 阿尔及利亚\n小组赛
+ ：J组\n北京时间：2026/06/23 11:00（UTC+8）\n当地时间：202
+ 6/06/22 20:00（America/Los_Angeles）\n对战(英文)：Jordan vs Algeria
+ \n地点：李维斯体育场｜圣克拉拉｜美国\
+ n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-45-20260624T010000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260624T010000
+DTEND;TZID=Asia/beijing:20260624T030000
+SUMMARY:老练照相馆/世界杯2026｜K组｜葡萄牙 vs 乌兹别克斯坦
+LOCATION:NRG 体育场（休士顿）\, 休士顿\, 美国
+DESCRIPTION:比赛场次：45\n对战：葡萄牙 vs 乌兹别克斯坦\n小组赛
+ ：K组\n北京时间：2026/06/24 01:00（UTC+8）\n当地时间：202
+ 6/06/23 12:00（America/Chicago）\n对战(英文)：Portugal vs Uzbekista
+ n\n地点：NRG 体育场（休士顿）｜休士顿｜美国\n提醒：賽
+ 程以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-46-20260624T040000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260624T040000
+DTEND;TZID=Asia/beijing:20260624T060000
+SUMMARY:老练照相馆/世界杯2026｜L组｜英格兰vs 加纳
+LOCATION:吉列体育场（福克斯堡）\, 福克斯堡\, 美国
+DESCRIPTION:比赛场次：46\n对战：英格兰vs 加纳\n小组赛：L
+组\n北京时间：2026/06/24 04:00（UTC+8）\n当地时间：2026/06/2
+ 3 16:00（America/New_York）\n对战(英文)：England vs Ghana\n地点
+ ：吉列体育场（福克斯堡）｜福克斯堡｜美国\n提醒：
+ 比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-47-20260624T070000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260624T070000
+DTEND;TZID=Asia/beijing:20260624T090000
+SUMMARY:老练照相馆/世界杯2026｜L组｜巴拿马 vs克罗地亚
+LOCATION:吉列体育场（福克斯堡）\, 福克斯堡\, 美国
+DESCRIPTION:比赛场次：47\n对战：巴拿马 vs克罗地亚\n小
+组赛：L组\n北京时间：2026/06/24 07:00（UTC+8）\n当地时间：
+ 2026/06/23 19:00（America/New_York）\n对战(英文)：Panama vs Croatia
+ \n地点：吉列体育场（福克斯堡）｜福克斯堡｜美国\n提
+ 醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-48-20260624T100000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260624T100000
+DTEND;TZID=Asia/beijing:20260624T120000
+SUMMARY:老练照相馆/世界杯2026｜K组｜哥伦比亚 vs 刚果民主共和国
+LOCATION:Estadio Akron（阿克伦体育场）\, 扎波潘\, 墨西哥
+DESCRIPTION:比赛场次：48\n对战：哥伦比亚 vs 剛果民主共和
+ 国/牙買加/新喀里多尼亞\n小组赛：K组\n北京时间：2026/06
+ /24 10:00（UTC+8）\n当地时间：2026/06/23 20:00（America/Mexico_Cit
+ y）\n对战(英文)：Colombia vs DR Congo\n地点
+ ：Estadio Akron（阿克伦体育场）｜扎波潘｜墨西哥\n提醒：
+ 比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-49-20260625T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260625T030000
+DTEND;TZID=Asia/beijing:20260625T050000
+SUMMARY:老练照相馆/世界杯2026｜B组｜瑞士 vs 加拿大
+LOCATION:卑诗省广场（温哥华）\, 温哥华\, 加拿大
+DESCRIPTION:比赛场次：49\n对战：瑞士 vs 加拿大\n小组赛：
+B组\n北京时间：2026/06/25 03:00（UTC+8）\n当地时间：2026/06/2
+ 4 12:00（America/Vancouver）\n对战(英文)：Switzerland vs Canada\n
+ 地点：卑诗省广场（温哥华）｜温哥华｜加拿大\n提醒：比赛
+ 以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-50-20260625T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260625T030000
+DTEND;TZID=Asia/beijing:20260625T050000
+SUMMARY:老练照相馆/世界杯2026｜B组｜波斯尼亚 vs 卡塔尔
+LOCATION:流明球场（西雅图）\, 西雅图\, 美国
+DESCRIPTION:比赛场次：50\n对战：波斯尼亚vs 卡塔尔\n小组赛：
+B组\n北京时间：2026/06/25 03:00（UTC+8）\n
+当地时间：2026/06/24 12:00（America/Los
+ _Angeles）\n对战(英文)：Bosnia  vs Qatar\n
+地点：流明球场（西雅图）｜西雅图｜美国\n
+ 提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-51-20260625T060000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260625T060000
+DTEND;TZID=Asia/beijing:20260625T080000
+SUMMARY:老练照相馆/世界杯2026｜C组｜苏格兰 vs 巴西
+LOCATION:硬石体育场（迈阿密）\, 迈阿密\, 美国
+DESCRIPTION:比赛场次：51\n对战：苏格兰 vs 巴西\n小组赛：
+C组\n北京时间：2026/06/25 06:00（UTC+8）\n当地时间：2026/06/2
+ 4 18:00（America/New_York）\n对战(英文)：Scotland vs Brazil\n地点
+ ：硬石体育场（迈阿密）｜迈阿密｜美国\n提醒：
+ 比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-52-20260625T060000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260625T060000
+DTEND;TZID=Asia/beijing:20260625T080000
+SUMMARY:老练照相馆/世界杯2026｜C组｜摩洛哥 vs 海地
+LOCATION:梅赛德斯-奔驰体育场（亚特兰大）\, 亚特兰大\, 美国
+DESCRIPTION:比赛场次：52\n对战：摩洛哥 vs 海地\n小组赛：C
+组\n北京时间：2026/06/25 06:00（UTC+8）\n当地时间：2026/06/2
+ 4 18:00（America/New_York）\n对战(英文)：Morocco vs Haiti\n地点
+ ：梅赛德斯-奔驰体育场（亚特兰大）｜亚特兰大｜美国\n提醒
+ ：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-53-20260625T090000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260625T090000
+DTEND;TZID=Asia/beijing:20260625T110000
+SUMMARY:老练照相馆/世界杯2026｜A组｜南非 vs 韩国
+LOCATION:西班牙外换银行（Guadalupe）\,瓜达卢佩\, 墨西哥
+DESCRIPTION:比赛场次：53\n对战：南非 vs 韩国\n小组赛：A组\
+ n北京时间：2026/06/25 09:00（UTC+8）\n当地时间：2026/06/24 19:
+ 00（America/Monterrey）\n对战(英文)：South Africa vs South Korea\n
+ 地点：西班牙外换银行（Guadalupe）｜瓜达卢佩｜墨西哥\n提醒：
+ 比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-54-20260625T090000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260625T090000
+DTEND;TZID=Asia/beijing:20260625T110000
+SUMMARY:老练照相馆/世界杯2026｜A组｜捷克 vs 墨西哥
+LOCATION:阿兹台克人体育场（墨西哥城）\, 墨西哥城\, 墨西哥
+DESCRIPTION:比赛场次：54\n对战：捷克 vs 墨西哥\n小组赛：
+A组\n北京时间：2026/06/25 09:00（UTC+
+ 8）\n当地时间：2026/06/24 19:00（America/Mexico_City）\n对战(英
+ 文)：Czech Republic vs Mexic
+ o\n地点：阿兹台克人体育场（墨西哥城）｜墨西哥城｜墨西哥\n
+ 提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-55-20260626T040000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260626T040000
+DTEND;TZID=Asia/beijing:20260626T060000
+SUMMARY:老练照相馆/世界杯2026｜E组｜库拉索岛 vs 科特迪瓦
+LOCATION:林肯金融球场（费城）\, 费城\, 美国
+DESCRIPTION:比赛场次：55\n对战：库拉索岛 vs 科特迪瓦\n小组赛
+ ：E组\n北京时间：2026/06/26 04:00（UTC+8）\n当地时间：202
+ 6/06/25 16:00（America/New_York）\n对战(英文)：Curacao vs Ivory Coa
+ st\n地点：林肯金融球场（费城）｜费城｜美国\n提醒
+ ：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-56-20260626T040000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260626T040000
+DTEND;TZID=Asia/beijing:20260626T060000
+SUMMARY:老练照相馆/世界杯2026｜E组｜厄瓜多尔 vs 德国
+LOCATION:大都会体育场, 东罗塞福\, 新泽西\, 美国
+DESCRIPTION:比赛场次：56\n对战：厄瓜多尔 vs 德国\n小组赛：
+E组\n北京时间：2026/06/26 04:00（UTC+8）\n当地时间：2026/06/2
+ 5 16:00（America/New_York）\n对战(英文)：Ecuador vs Germany\n地点
+ ：大都会体育场, 东罗塞福｜新泽西｜美国\n提醒：賽
+ 程以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-57-20260626T070000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260626T070000
+DTEND;TZID=Asia/beijing:20260626T090000
+SUMMARY:老练照相馆/世界杯2026｜F组｜突尼斯 vs 荷兰
+LOCATION:箭头体育馆（堪萨斯城）\, 堪萨斯城\, 美国
+DESCRIPTION:比赛场次：57\n对战：突尼斯 vs 荷兰\n小组赛：
+ F组\n北京时间：2026/06/26 07:00（UTC+8）\n当地时间：2026/0
+ 6/25 18:00（America/Chicago）\n对战(英文)：Tunisia vs Netherlands\n
+ 地点：箭头体育馆（堪萨斯城）｜堪萨斯城｜美国\n提
+ 醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-58-20260626T070000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260626T070000
+DTEND;TZID=Asia/beijing:20260626T090000
+SUMMARY:老练照相馆/世界杯2026｜F组｜日本 vs 瑞典
+LOCATION:AT&T 体育场（阿灵顿）\, 阿灵顿\, 美国
+DESCRIPTION:比赛场次：58\n对战：日本 vs 瑞典\n
+小组赛：F组\n北京时间：2026/06/26 07:00（UTC+
+ 8）\n当地时间：2026/06/25 18:00（America/Chicago）\n对战(英文)
+ ：Japan vs Albania/Poland/Sweden/Ukraine\n地点：AT&T 体育场（阿灵
+顿）｜阿灵顿｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-59-20260626T100000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260626T100000
+DTEND;TZID=Asia/beijing:20260626T120000
+SUMMARY:老练照相馆/世界杯2026｜D组｜土耳其 vs 美国
+LOCATION:索菲体育场（Inglewood）\, 洛杉矶\, 美国
+DESCRIPTION:比赛场次：59\n对战：科索沃/羅馬尼亞/斯洛伐克
+ /土耳其 vs 美国\n小组赛：D组\n北京时间：2026/06/26 10:00（
+ UTC+8）\n当地时间：2026/06/25 19:00（America/Los_Angeles）\n对战
+ (英文)：Turkey vs USA\n地点：索菲体育场（
+ Inglewood）｜洛杉矶｜美国\n提醒：比赛以官方公告
+ 为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-60-20260626T100000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260626T100000
+DTEND;TZID=Asia/beijing:20260626T120000
+SUMMARY:老练照相馆/世界杯2026｜D组｜巴拉圭 vs 澳大利亚
+LOCATION:李维斯体育场\, 圣克拉拉\, 美国
+DESCRIPTION:比赛场次：60\n对战：巴拉圭 vs 澳大利亚\n小组赛：
+D组\n北京时间：2026/06/26 10:00（UTC+8）\n当地时间：2026/06/2
+ 5 19:00（America/Los_Angeles）\n对战(英文)：Paraguay vs Australia\n
+ 地点：李维斯体育场｜圣克拉拉｜美国\n
+ 提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-61-20260627T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260627T030000
+DTEND;TZID=Asia/beijing:20260627T050000
+SUMMARY:老练照相馆/世界杯2026｜I组｜挪威 vs 法国
+LOCATION:吉列体育场（福克斯堡）\, 福克斯堡\, 美国
+DESCRIPTION:比赛场次：61\n对战：挪威 vs 法国\n小组赛：I组\
+ n北京时间：2026/06/27 03:00（UTC+8）\n当地时间：2026/06/26 15:
+ 00（America/New_York）\n对战(英文)：Norway vs France\n地点：Gill
+ ette 体育场（福克斯堡）｜福克斯堡｜美国\n提醒：比赛可
+ 能依官方公告調整。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-62-20260627T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260627T030000
+DTEND;TZID=Asia/beijing:20260627T050000
+SUMMARY:老练照相馆/世界杯2026｜I组｜塞内加尔 vs 伊拉克
+LOCATION:BOM球场\, 多伦多\, 加拿大
+DESCRIPTION:比赛场次：62\n对战：塞内加尔 vs 伊拉克\n
+小组赛：I组\n北京时间：2026/06/27 03:00（UTC+8
+ ）\n当地时间：2026/06/26 15:00（America/Toronto）\n对战(英文)
+ ：Senegal vs Iraq\n地点：BOM球场｜
+ 多伦多｜加拿大\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-63-20260627T080000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260627T080000
+DTEND;TZID=Asia/beijing:20260627T100000
+SUMMARY:老练照相馆/世界杯2026｜H组｜乌拉圭 vs 西班牙
+LOCATION:Estadio Akron（阿克伦体育场）\, 扎波潘\, 墨西哥
+DESCRIPTION:比赛场次：63\n对战：乌拉圭 vs 西班牙\n小组赛：
+ H组\n北京时间：2026/06/27 08:00（UTC+8）\n当地时间：2026/0
+ 6/26 18:00（America/Mexico_City）\n对战(英文)：Uruguay vs Spain\n
+ 地点：Estadio Akron（阿克伦体育场）｜扎波潘｜墨西哥\n提
+ 醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-64-20260627T080000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260627T080000
+DTEND;TZID=Asia/beijing:20260627T100000
+SUMMARY:老练照相馆/世界杯2026｜H组｜佛得角 vs沙特阿拉伯
+LOCATION:NRG 体育场（休士顿）\, 休士顿\, 美国
+DESCRIPTION:比赛场次：64\n对战：佛得角 vs沙特阿拉伯\n
+ 小组赛：H组\n北京时间：2026/06/27 08:00（UTC+8）\n当地时间
+ ：2026/06/26 19:00（America/Chicago）\n对战(英文)：Cape Verde vs S
+ audi Arabia\n地点：NRG 体育场（休士顿）｜休士顿｜美国\n提
+ 醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-65-20260627T110000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260627T110000
+DTEND;TZID=Asia/beijing:20260627T130000
+SUMMARY:老练照相馆/世界杯2026｜G组｜新西兰 vs 比利时
+LOCATION:卑诗省广场（温哥华）\, 温哥华\, 加拿大
+DESCRIPTION:比赛场次：65\n对战：新西兰 vs 比利时\n小组赛：
+ G组\n北京时间：2026/06/27 11:00（UTC+8）\n当地时间：2026/0
+ 6/26 20:00（America/Vancouver）\n对战(英文)：New Zealand vs Belgium
+ \n地点：卑诗省广场（温哥华）｜温哥华｜加拿大\n提醒：賽
+ 程以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-66-20260627T110000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260627T110000
+DTEND;TZID=Asia/beijing:20260627T130000
+SUMMARY:老练照相馆/世界杯2026｜G组｜埃及 vs 伊朗
+LOCATION:流明球场（西雅图）\, 西雅图\, 美国
+DESCRIPTION:比赛场次：66\n对战：埃及 vs 伊朗\n小组赛：G组\
+ n北京时间：2026/06/27 11:00（UTC+8）\n当地时间：2026/06/26 20:
+ 00（America/Los_Angeles）\n对战(英文)：Egypt vs Iran\n地点：Lume
+ n Field（西雅图）｜西雅图｜美国\n提醒：比赛以官
+ 方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-67-20260628T050000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260628T050000
+DTEND;TZID=Asia/beijing:20260628T070000
+SUMMARY:老练照相馆/世界杯2026｜L组｜巴拿马 vs 英格兰
+LOCATION:大都会体育场, 东罗塞福\, 新泽西\, 美国
+DESCRIPTION:比赛场次：67\n对战：巴拿马 vs 英格兰\n小组赛：
+ L组\n北京时间：2026/06/28 05:00（UTC+8）\n当地时间：2026/0
+ 6/27 17:00（America/New_York）\n对战(英文)：Panama vs England\n地
+ 點：大都会体育场, 东罗塞福｜新泽西｜美国\n提醒：
+ 比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-68-20260628T050000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260628T050000
+DTEND;TZID=Asia/beijing:20260628T070000
+SUMMARY:老练照相馆/世界杯2026｜L组｜克罗地亚 vs 加纳
+LOCATION:林肯金融球场（费城）\, 费城\, 美国
+DESCRIPTION:比赛场次：68\n对战：克罗地亚 vs 加纳\n小组赛
+ ：L组\n北京时间：2026/06/28 05:00（UTC+8）\n当地时间：202
+ 6/06/27 17:00（America/New_York）\n对战(英文)：Croatia vs Ghana\n
+ 地点：林肯金融球场（费城）｜费城｜美国\n提醒：
+ 比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-69-20260628T073000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260628T073000
+DTEND;TZID=Asia/beijing:20260628T093000
+SUMMARY:老练照相馆/世界杯2026｜K组｜哥伦比亚 vs 葡萄牙
+LOCATION:硬石体育场（迈阿密）\, 迈阿密\, 美国
+DESCRIPTION:比赛场次：69\n对战：哥伦比亚 vs 葡萄牙\n小组赛
+ ：K组\n北京时间：2026/06/28 07:30（UTC+8）\n当地时间：202
+ 6/06/27 19:30（America/New_York）\n对战(英文)：Colombia vs Portugal
+ \n地点：硬石体育场（迈阿密）｜迈阿密｜美国\n
+ 提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-70-20260628T073000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260628T073000
+DTEND;TZID=Asia/beijing:20260628T093000
+SUMMARY:老练照相馆/世界杯2026｜K组｜刚果民主共和国
+ vs 乌兹别克斯坦
+LOCATION:梅赛德斯-奔驰体育场（亚特兰大）\, 亚特兰大\, 美国
+DESCRIPTION:比赛场次：70\n对战：刚果民主共和国
+ vs 乌兹别克斯坦\n小组赛：K组\n北京时间：2026/06/
+ 28 07:30（UTC+8）\n当地时间：2026/06/27 19:30（America/New_York）
+ \n对战(英文)：DR Congo vs Uzbekistan\n地点：
+ 梅赛德斯-奔驰体育场（亚特兰大）｜亚特兰大｜美国\n提醒：
+ 比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-71-20260628T100000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260628T100000
+DTEND;TZID=Asia/beijing:20260628T120000
+SUMMARY:老练照相馆/世界杯2026｜J组｜阿尔及利亚 vs 奥地利
+LOCATION:箭头体育馆（堪萨斯城）\, 堪萨斯城\, 美国
+DESCRIPTION:比赛场次：71\n对战：阿尔及利亚 vs 奥地利\n小
+组赛：J组\n北京时间：2026/06/28 10:00（UTC+8）\n当地时间：
+ 2026/06/27 21:00（America/Chicago）\n对战(英文)：Algeria vs Austria
+ \n地点：箭头体育馆（堪萨斯城）｜堪萨斯城｜美国\n
+ 提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-72-20260628T100000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260628T100000
+DTEND;TZID=Asia/beijing:20260628T120000
+SUMMARY:老练照相馆/世界杯2026｜J组｜约旦 vs 阿根廷
+LOCATION:AT&T 体育场（阿灵顿）\, 阿灵顿\, 美国
+DESCRIPTION:比赛场次：72\n对战：约旦 vs 阿根廷\n小组赛：
+J组\n北京时间：2026/06/28 10:00（UTC+8）\n当地时间：2026/06/2
+ 7 21:00（America/Chicago）\n对战(英文)：Jordan vs Argentina\n地点
+ ：AT&T 体育场（阿灵顿）｜阿灵顿｜美国\n提醒：比赛可能
+ 依官方公告調整。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-73-20260629T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260629T030000
+DTEND;TZID=Asia/beijing:20260629T050000
+SUMMARY:老练照相馆/世界杯2026｜32強｜A组第二名 vs B组第二名
+LOCATION:索菲体育场（Inglewood）\, 洛杉矶\, 美国
+DESCRIPTION:比赛场次：73\n对战：A组第二名 vs B组第二名\n
+ 小组赛：32強\n北京时间：2026/06/29 03:00（UTC+8）\n当地时间
+ ：2026/06/28 12:00（America/Los_Angeles）\n对战(英文)：Group A run
+ ners-up vs Group B runners-up\n地点：索菲体育场（Inglewood）｜
+ 洛杉矶｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-74-20260630T010000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260630T010000
+DTEND;TZID=Asia/beijing:20260630T030000
+SUMMARY:老练照相馆/世界杯2026｜32強｜C组第一名 vs F组第二名
+LOCATION:NRG 体育场（休士顿）\, 休士顿\, 美国
+DESCRIPTION:比赛场次：74\n对战：C组第一名 vs F组第二名\n
+ 小组赛：32強\n北京时间：2026/06/30 01:00（UTC+8）\n当地时间
+ ：2026/06/29 12:00（America/Chicago）\n对战(英文)：Group C winners
+  vs Group F runners-up\n地点：NRG 体育场（休士顿）｜休士顿｜
+ 美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-75-20260630T043000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260630T043000
+DTEND;TZID=Asia/beijing:20260630T063000
+SUMMARY:老练照相馆/世界杯2026｜32強｜E组第一名 vs A/B/C/D/F组第三名
+LOCATION:吉列体育场（福克斯堡）\, 福克斯堡\, 美国
+DESCRIPTION:比赛场次：75\n对战：E组第一名 vs A/B/C/D/F组第
+ 三名\n小组赛：32強\n北京时间：2026/06/30 04:30（UTC+8）\n当地
+ 时间：2026/06/29 16:30（America/New_York）\n对战(英文)：Group E 
+ winners vs Group A/B/C/D/F third place\n地点：吉列体育场（福克
+ 斯堡）｜福克斯堡｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-76-20260630T090000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260630T090000
+DTEND;TZID=Asia/beijing:20260630T110000
+SUMMARY:老练照相馆/世界杯2026｜32強｜F组第一名 vs C组第二名
+LOCATION:西班牙外换银行（Guadalupe）\,瓜达卢佩\, 墨西哥
+DESCRIPTION:比赛场次：76\n对战：F组第一名 vs C组第二名\n
+ 小组赛：32強\n北京时间：2026/06/30 09:00（UTC+8）\n当地时间
+ ：2026/06/29 19:00（America/Monterrey）\n对战(英文)：Group F winne
+ rs vs Group C runners-up\n地点：西班牙外换银行（Guadalupe）｜瓜达瓜
+ 佩｜墨西哥\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-77-20260701T010000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260701T010000
+DTEND;TZID=Asia/beijing:20260701T030000
+SUMMARY:老练照相馆/世界杯2026｜32強｜E组第二名 vs I组第二名
+LOCATION:AT&T 体育场（阿灵顿）\, 阿灵顿\, 美国
+DESCRIPTION:比赛场次：77\n对战：E组第二名 vs I组第二名\n
+ 小组赛：32強\n北京时间：2026/07/01 01:00（UTC+8）\n当地时间
+ ：2026/06/30 12:00（America/Chicago）\n对战(英文)：Group E runners
+ -up vs Group I runners-up\n地点：AT&T 体育场（阿灵顿）｜阿灵
+顿｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-78-20260701T050000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260701T050000
+DTEND;TZID=Asia/beijing:20260701T070000
+SUMMARY:老练照相馆/世界杯2026｜32強｜I组第一名 vs C/D/F/G/H组第三名
+LOCATION:大都会体育场, 东罗塞福\, 新泽西\, 美国
+DESCRIPTION:比赛场次：78\n对战：I组第一名 vs C/D/F/G/H组第
+ 三名\n小组赛：32強\n北京时间：2026/07/01 05:00（UTC+8）\n当地
+ 时间：2026/06/30 17:00（America/New_York）\n对战(英文)：Group I 
+ winners vs Group C/D/F/G/H third place\n地点：MetLife 体育场（東拉
+ 瑟福德）｜新泽西｜美国\n提醒：比赛可能依官方公告調
+ 整。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-79-20260701T090000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260701T090000
+DTEND;TZID=Asia/beijing:20260701T110000
+SUMMARY:老练照相馆/世界杯2026｜32強｜A组第一名 vs C/E/F/H/I组第三名
+LOCATION:阿兹台克人体育场（墨西哥城）\, 墨西哥城\, 墨西哥
+DESCRIPTION:比赛场次：79\n对战：A组第一名 vs C/E/F/H/I组第
+ 三名\n小组赛：32強\n北京时间：2026/07/01 09:00（UTC+8）\n当地
+ 时间：2026/06/30 19:00（America/Mexico_City）\n对战(英文)：Group
+  A winners vs Group C/E/F/H/I third place\n地点：阿兹台克人体育场（墨
+ 西哥城）｜墨西哥城｜墨西哥\n提醒：比赛以官方公
+ 告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-80-20260702T000000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260702T000000
+DTEND;TZID=Asia/beijing:20260702T020000
+SUMMARY:老练照相馆/世界杯2026｜32強｜L组第一名 vs E/H/I/J/K组第三名
+LOCATION:梅赛德斯-奔驰体育场（亚特兰大）\, 亚特兰大\, 美国
+DESCRIPTION:比赛场次：80\n对战：L组第一名 vs E/H/I/J/K组第
+ 三名\n小组赛：32強\n北京时间：2026/07/02 00:00（UTC+8）\n当地
+ 时间：2026/07/01 12:00（America/New_York）\n对战(英文)：Group L 
+ winners vs Group E/H/I/J/K third place\n地点：梅赛德斯-奔驰体育场（
+ 亚特兰大）｜亚特兰大｜美国\n提醒：比赛以官方公
+ 告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-81-20260702T040000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260702T040000
+DTEND;TZID=Asia/beijing:20260702T060000
+SUMMARY:老练照相馆/世界杯2026｜32強｜G组第一名 vs A/E/H/I/J组第三名
+LOCATION:流明球场（西雅图）\, 西雅图\, 美国
+DESCRIPTION:比赛场次：81\n对战：G组第一名 vs A/E/H/I/J组第
+ 三名\n小组赛：32強\n北京时间：2026/07/02 04:00（UTC+8）\n当地
+ 时间：2026/07/01 13:00（America/Los_Angeles）\n对战(英文)：Group
+  G winners vs Group A/E/H/I/J third place\n地点：流明球场（西雅
+ 图）｜西雅图｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-82-20260702T080000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260702T080000
+DTEND;TZID=Asia/beijing:20260702T100000
+SUMMARY:老练照相馆/世界杯2026｜32強｜D组第一名 vs B/E/F/I/J组第三名
+LOCATION:李维斯体育场\, 圣克拉拉\, 美国
+DESCRIPTION:比赛场次：82\n对战：D组第一名 vs B/E/F/I/J组第
+ 三名\n小组赛：32強\n北京时间：2026/07/02 08:00（UTC+8）\n当地
+ 时间：2026/07/01 17:00（America/Los_Angeles）\n对战(英文)：Group
+  D winners vs Group B/E/F/I/J third place\n地点：李维斯体育场（圣
+ 克拉拉）｜圣克拉拉｜美国\n提醒：比赛以官方
+ 公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-83-20260703T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260703T030000
+DTEND;TZID=Asia/beijing:20260703T050000
+SUMMARY:老练照相馆/世界杯2026｜32強｜H组第一名 vs J组第二名
+LOCATION:索菲体育场（Inglewood）\, 洛杉矶\, 美国
+DESCRIPTION:比赛场次：83\n对战：H组第一名 vs J组第二名\n
+ 小组赛：32強\n北京时间：2026/07/03 03:00（UTC+8）\n当地时间
+ ：2026/07/02 12:00（America/Los_Angeles）\n对战(英文)：Group H win
+ ners vs Group J runners-up\n地点：索菲体育场（Inglewood）｜洛
+ 杉矶｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-84-20260703T070000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260703T070000
+DTEND;TZID=Asia/beijing:20260703T090000
+SUMMARY:老练照相馆/世界杯2026｜32強｜K组第二名 vs L组第二名
+LOCATION:BOM球场\, 多伦多\, 加拿大
+DESCRIPTION:比赛场次：84\n对战：K组第二名 vs L组第二名\n
+ 小组赛：32強\n北京时间：2026/07/03 07:00（UTC+8）\n当地时间
+ ：2026/07/02 19:00（America/Toronto）\n对战(英文)：Group K runners
+ -up vs Group L runners-up\n地点：BOM球场｜多伦多
+ ｜加拿大\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-85-20260703T110000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260703T110000
+DTEND;TZID=Asia/beijing:20260703T130000
+SUMMARY:老练照相馆/世界杯2026｜32強｜B组第一名 vs E/F/G/I/J组第三名
+LOCATION:卑诗省广场（温哥华）\, 温哥华\, 加拿大
+DESCRIPTION:比赛场次：85\n对战：B组第一名 vs E/F/G/I/J组第
+ 三名\n小组赛：32強\n北京时间：2026/07/03 11:00（UTC+8）\n当地
+ 时间：2026/07/02 20:00（America/Vancouver）\n对战(英文)：Group B
+  winners vs Group E/F/G/I/J third place\n地点：卑诗省广场（温哥华）
+ ｜温哥华｜加拿大\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-86-20260704T020000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260704T020000
+DTEND;TZID=Asia/beijing:20260704T040000
+SUMMARY:老练照相馆/世界杯2026｜32強｜D组第二名 vs G组第二名
+LOCATION:AT&T 体育场（阿灵顿）\, 阿灵顿\, 美国
+DESCRIPTION:比赛场次：86\n对战：D组第二名 vs G组第二名\n
+ 小组赛：32強\n北京时间：2026/07/04 02:00（UTC+8）\n当地时间
+ ：2026/07/03 13:00（America/Chicago）\n对战(英文)：Group D runners
+ -up vs Group G runners-up\n地点：AT&T 体育场（阿灵顿）｜阿灵
+顿｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-87-20260704T060000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260704T060000
+DTEND;TZID=Asia/beijing:20260704T080000
+SUMMARY:老练照相馆/世界杯2026｜32強｜J组第一名 vs H组第二名
+LOCATION:硬石体育场（迈阿密）\, 迈阿密\, 美国
+DESCRIPTION:比赛场次：87\n对战：J组第一名 vs H组第二名\n
+ 小组赛：32強\n北京时间：2026/07/04 06:00（UTC+8）\n当地时间
+ ：2026/07/03 18:00（America/New_York）\n对战(英文)：Group J winner
+ s vs Group H runners-up\n地点：硬石体育场（迈阿密）
+ ｜迈阿密｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-88-20260704T093000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260704T093000
+DTEND;TZID=Asia/beijing:20260704T113000
+SUMMARY:老练照相馆/世界杯2026｜32強｜K组第一名 vs D/E/I/J/L组第三名
+LOCATION:箭头体育馆（堪萨斯城）\, 堪萨斯城\, 美国
+DESCRIPTION:比赛场次：88\n对战：K组第一名 vs D/E/I/J/L组第
+ 三名\n小组赛：32強\n北京时间：2026/07/04 09:30（UTC+8）\n当地
+ 时间：2026/07/03 20:30（America/Chicago）\n对战(英文)：Group K w
+ inners vs Group D/E/I/J/L third place\n地点：箭头体育馆（堪薩
+ 斯城）｜堪萨斯城｜美国\n提醒：比赛以官方公告为
+主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-89-20260705T010000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260705T010000
+DTEND;TZID=Asia/beijing:20260705T030000
+SUMMARY:老练照相馆/世界杯2026｜16強｜第73场胜方 vs 第75场胜方
+LOCATION:NRG 体育场（休士顿）\, 休士顿\, 美国
+DESCRIPTION:比赛场次：89\n对战：第73场胜方 vs 第75场胜方\n
+ 小组赛：16強\n北京时间：2026/07/05 01:00（UTC+8）\n当地时间
+ ：2026/07/04 12:00（America/Chicago）\n对战(英文)：Match 73 winner
+ s vs Match 75 winners\n地点：NRG 体育场（休士顿）｜休士顿｜
+ 美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-90-20260705T050000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260705T050000
+DTEND;TZID=Asia/beijing:20260705T070000
+SUMMARY:老练照相馆/世界杯2026｜16強｜第74场胜方 vs 第77场胜方
+LOCATION:林肯金融球场（费城）\, 费城\, 美国
+DESCRIPTION:比赛场次：90\n对战：第74场胜方 vs 第77场胜方\n
+ 小组赛：16強\n北京时间：2026/07/05 05:00（UTC+8）\n当地时间
+ ：2026/07/04 17:00（America/New_York）\n对战(英文)：Match 74 winne
+ rs vs Match 77 winners\n地点：林肯金融球场（费城）｜费
+ 城｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-91-20260706T040000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260706T040000
+DTEND;TZID=Asia/beijing:20260706T060000
+SUMMARY:老练照相馆/世界杯2026｜16強｜第76场胜方 vs 第78场胜方
+LOCATION:大都会体育场, 东罗塞福\, 新泽西\, 美国
+DESCRIPTION:比赛场次：91\n对战：第76场胜方 vs 第78场胜方\n
+ 小组赛：16強\n北京时间：2026/07/06 04:00（UTC+8）\n当地时间
+ ：2026/07/05 16:00（America/New_York）\n对战(英文)：Match 76 winne
+ rs vs Match 78 winners\n地点：大都会体育场, 东罗塞福｜
+ 新泽西｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-92-20260706T080000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260706T080000
+DTEND;TZID=Asia/beijing:20260706T100000
+SUMMARY:老练照相馆/世界杯2026｜16強｜第79场胜方 vs 第80场胜方
+LOCATION:阿兹台克人体育场（墨西哥城）\, 墨西哥城\, 墨西哥
+DESCRIPTION:比赛场次：92\n对战：第79场胜方 vs 第80场胜方\n
+ 小组赛：16強\n北京时间：2026/07/06 08:00（UTC+8）\n当地时间
+ ：2026/07/05 18:00（America/Mexico_City）\n对战(英文)：Match 79 wi
+ nners vs Match 80 winners\n地点：阿兹台克人体育场（墨西哥城）｜墨
+ 西哥城｜墨西哥\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-93-20260707T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260707T030000
+DTEND;TZID=Asia/beijing:20260707T050000
+SUMMARY:老练照相馆/世界杯2026｜16強｜第83场胜方 vs 第84场胜方
+LOCATION:AT&T 体育场（阿灵顿）\, 阿灵顿\, 美国
+DESCRIPTION:比赛场次：93\n对战：第83场胜方 vs 第84场胜方\n
+ 小组赛：16強\n北京时间：2026/07/07 03:00（UTC+8）\n当地时间
+ ：2026/07/06 14:00（America/Chicago）\n对战(英文)：Match 83 winner
+ s vs Match 84 winners\n地点：AT&T 体育场（阿灵顿）｜阿灵顿｜
+ 美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-94-20260707T080000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260707T080000
+DTEND;TZID=Asia/beijing:20260707T100000
+SUMMARY:老练照相馆/世界杯2026｜16強｜第81场胜方 vs 第82场胜方
+LOCATION:流明球场（西雅图）\, 西雅图\, 美国
+DESCRIPTION:比赛场次：94\n对战：第81场胜方 vs 第82场胜方\n
+ 小组赛：16強\n北京时间：2026/07/07 08:00（UTC+8）\n当地时间
+ ：2026/07/06 17:00（America/Los_Angeles）\n对战(英文)：Match 81 wi
+ nners vs Match 82 winners\n地点：流明球场（西雅图）｜西雅图
+ ｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-95-20260708T000000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260708T000000
+DTEND;TZID=Asia/beijing:20260708T020000
+SUMMARY:老练照相馆/世界杯2026｜16強｜第86场胜方 vs 第88场胜方
+LOCATION:梅赛德斯-奔驰体育场（亚特兰大）\, 亚特兰大\, 美国
+DESCRIPTION:比赛场次：95\n对战：第86场胜方 vs 第88场胜方\n
+ 小组赛：16強\n北京时间：2026/07/08 00:00（UTC+8）\n当地时间
+ ：2026/07/07 12:00（America/New_York）\n对战(英文)：Match 86 winne
+ rs vs Match 88 winners\n地点：梅赛德斯-奔驰体育场（亚特兰大）
+ ｜亚特兰大｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-96-20260708T040000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260708T040000
+DTEND;TZID=Asia/beijing:20260708T060000
+SUMMARY:老练照相馆/世界杯2026｜16強｜第85场胜方 vs 第87场胜方
+LOCATION:卑诗省广场（温哥华）\, 温哥华\, 加拿大
+DESCRIPTION:比赛场次：96\n对战：第85场胜方 vs 第87场胜方\n
+ 小组赛：16強\n北京时间：2026/07/08 04:00（UTC+8）\n当地时间
+ ：2026/07/07 13:00（America/Vancouver）\n对战(英文)：Match 85 winn
+ ers vs Match 87 winners\n地点：卑诗省广场（温哥华）｜温哥华｜
+ 加拿大\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-97-20260710T040000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260710T040000
+DTEND;TZID=Asia/beijing:20260710T060000
+SUMMARY:老练照相馆/世界杯2026｜8強｜第89场胜方 vs 第90场胜方
+LOCATION:吉列体育场（福克斯堡）\, 福克斯堡\, 美国
+DESCRIPTION:比赛场次：97\n对战：第89场胜方 vs 第90场胜方\n
+ 小组赛：8強\n北京时间：2026/07/10 04:00（UTC+8）\n当地时间：
+ 2026/07/09 16:00（America/New_York）\n对战(英文)：Match 89 winners 
+ vs Match 90 winners\n地点：吉列体育场（福克斯堡）｜福克
+ 斯堡｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-98-20260711T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260711T030000
+DTEND;TZID=Asia/beijing:20260711T050000
+SUMMARY:老练照相馆/世界杯2026｜8強｜第93场胜方 vs 第94场胜方
+LOCATION:索菲体育场（Inglewood）\, 洛杉矶\, 美国
+DESCRIPTION:比赛场次：98\n对战：第93场胜方 vs 第94场胜方\n
+ 小组赛：8強\n北京时间：2026/07/11 03:00（UTC+8）\n当地时间：
+ 2026/07/10 12:00（America/Los_Angeles）\n对战(英文)：Match 93 winne
+ rs vs Match 94 winners\n地点：索菲体育场（Inglewood）｜洛杉
+ 矶｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-99-20260712T050000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260712T050000
+DTEND;TZID=Asia/beijing:20260712T070000
+SUMMARY:老练照相馆/世界杯2026｜8強｜第91场胜方 vs 第92场胜方
+LOCATION:硬石体育场（迈阿密）\, 迈阿密\, 美国
+DESCRIPTION:比赛场次：99\n对战：第91场胜方 vs 第92场胜方\n
+ 小组赛：8強\n北京时间：2026/07/12 05:00（UTC+8）\n当地时间：
+ 2026/07/11 17:00（America/New_York）\n对战(英文)：Match 91 winners 
+ vs Match 92 winners\n地点：硬石体育场（迈阿密）｜迈
+ 阿密｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-100-20260712T090000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260712T090000
+DTEND;TZID=Asia/beijing:20260712T110000
+SUMMARY:老练照相馆/世界杯2026｜8強｜第95场胜方 vs 第96场胜方
+LOCATION:箭头体育馆（堪萨斯城）\, 堪萨斯城\, 美国
+DESCRIPTION:比赛场次：100\n对战：第95场胜方 vs 第96场胜方\n
+ 小组赛：8強\n北京时间：2026/07/12 09:00（UTC+8）\n当地时间：
+ 2026/07/11 20:00（America/Chicago）\n对战(英文)：Match 95 winners v
+ s Match 96 winners\n地点：箭头体育馆（堪萨斯城）｜堪萨
+ 斯城｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-101-20260715T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260715T030000
+DTEND;TZID=Asia/beijing:20260715T050000
+SUMMARY:老练照相馆/世界杯2026｜4強｜第97场胜方 vs 第98场胜方
+LOCATION:AT&T 体育场（阿灵顿）\, 阿灵顿\, 美国
+DESCRIPTION:比赛场次：101\n对战：第97场胜方 vs 第98场胜方\n
+ 小组赛：4強\n北京时间：2026/07/15 03:00（UTC+8）\n当地时间：
+ 2026/07/14 14:00（America/Chicago）\n对战(英文)：Match 97 winners v
+ s Match 98 winners\n地点：AT&T 体育场（阿灵顿）｜阿灵顿｜美
+ 国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-102-20260716T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260716T030000
+DTEND;TZID=Asia/beijing:20260716T050000
+SUMMARY:老练照相馆/世界杯2026｜4強｜第99场胜方 vs 第100场胜方
+LOCATION:梅赛德斯-奔驰体育场（亚特兰大）\, 亚特兰大\, 美国
+DESCRIPTION:比赛场次：102\n对战：第99场胜方 vs 第100场胜方\
+ n小组赛：4強\n北京时间：2026/07/16 03:00（UTC+8）\n当地时间
+ ：2026/07/15 15:00（America/New_York）\n对战(英文)：Match 99 winne
+ rs vs Match 100 winners\n地点：梅赛德斯-奔驰体育场（亚特兰大）
+ ｜亚特兰大｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-103-20260719T050000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260719T050000
+DTEND;TZID=Asia/beijing:20260719T070000
+SUMMARY:老练照相馆/世界杯2026｜季军战｜第101场败方 vs 第102场败方
+LOCATION:硬石体育场（迈阿密）\, 迈阿密\, 美国
+DESCRIPTION:比赛场次：103\n对战：第101场败方 vs 第102场败方
+ \n小组赛：季军战\n北京时间：2026/07/19 05:00（UTC+8）\n当地
+ 时间：2026/07/18 17:00（America/New_York）\n对战(英文)：Match 10
+ 1 losers vs Match 102 losers\n地点：Hard Rock 体育场（迈阿密花园
+ ）｜迈阿密｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc26-104-20260720T030000@toolcenter.local
+DTSTAMP:20260114T112603Z
+DTSTART;TZID=Asia/beijing:20260720T030000
+DTEND;TZID=Asia/beijing:20260720T050000
+SUMMARY:老练照相馆/世界杯2026｜决赛｜第101场胜方 vs 第102场胜方
+LOCATION:大都会体育场, 东罗塞福\, 新泽西\, 美国
+DESCRIPTION:比赛场次：104\n对战：第101场胜方 vs 第102场胜方
+ \n小组赛：决赛\n北京时间：2026/07/20 03:00（UTC+8）\n当地时
+间：2026/07/19 15:00（America/New_York）\n对战(英文)：Match 101 w
+ inners vs Match 102 winners\n地点：大都会体育场, 东罗塞福
+ ｜新泽西｜美国\n提醒：比赛以官方公告为主。
+END:VEVENT
+END:VCALENDAR
