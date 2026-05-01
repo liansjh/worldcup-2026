@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ToolCenter//2026 World Cup ZH Schedule//CN
+PRODID:-//LaoLian//2026 World Cup Schedule//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:2026 世界杯比赛 (老练照相馆版)
+X-WR-CALNAME:2026 世界杯赛程 (老练照相馆版)
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VTIMEZONE
 TZID:Asia/Shanghai
@@ -17,82 +17,1022 @@ END:STANDARD
 END:VTIMEZONE
 
 BEGIN:VEVENT
-SUMMARY:🏆 [A组] 墨西哥 vs 南非 (揭幕战) - 老练照相馆
+SUMMARY:🏆 第一场 [A组] 墨西哥 vs 南非 (揭幕战) - 老练照相馆
 DTSTART;TZID=Asia/Shanghai:20260612T030000
 DTEND;TZID=Asia/Shanghai:20260612T053000
-UID:2026WC-M01-LAOLIAN-SIMP
-DESCRIPTION:【小组】A组\n【时间】北京: 6/12 03:00 | 当地: 6/11 13:00\n【场地】墨西哥城 - 阿兹特克体育场\n【历史战绩】双方历史交锋 4 次，墨西哥 2 胜 2 平 0 负。最近一次为 2010 世界杯 1:1。
+UID:2026WC-M01-LL-FIX
+DESCRIPTION:第一场【小组】A组\n【时间】北京: 6/12 03:00 | 当地: 6/11 13:00\n【场地】墨西哥城 - 阿兹特克体育场\n【历史战绩】双方历史交锋 4 次，墨西哥 2 胜 2 平 0 负。
 LOCATION:Estadio Azteca, Mexico City
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:⚽ [A组] 韩国 vs 捷克 - 老练照相馆
+SUMMARY:⚽ 第二场 [A组] 韩国 vs 捷克 - 老练照相馆
 DTSTART;TZID=Asia/Shanghai:20260612T100000
 DTEND;TZID=Asia/Shanghai:20260612T123000
-UID:2026WC-M02-LAOLIAN-SIMP
-DESCRIPTION:【小组】A组\n【时间】北京: 6/12 10:00 | 当地: 6/11 19:00\n【场地】瓜达拉哈拉 - 埃克伦体育场\n【历史战绩】双方历史交锋 6 次，捷克 2 胜 3 平 1 负。
+UID:2026WC-M02-LL-FIX
+DESCRIPTION:第二场【小组】A组\n【时间】北京: 6/12 10:00 | 当地: 6/11 19:00\n【场地】瓜达拉哈拉 - 埃克伦体育场\n【历史战绩】双方历史交锋 6 次，捷克 2 胜 3 平 1 负。
 LOCATION:Estadio Guadalajara, Mexico
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:⚽ [B组] 加拿大 vs 波黑 - 老练照相馆
+SUMMARY:⚽ 第三场 [B组] 加拿大 vs 波黑 - 老练照相馆
 DTSTART;TZID=Asia/Shanghai:20260613T030000
 DTEND;TZID=Asia/Shanghai:20260613T053000
-UID:2026WC-M03-LAOLIAN-SIMP
-DESCRIPTION:【小组】B组\n【时间】北京: 6/13 03:00 | 当地: 6/12 15:00\n【场地】多伦多 - BMO球场\n【历史战绩】双方历史交锋 1 次，波黑 1 胜 0 负。
+UID:2026WC-M03-LL-FIX
+DESCRIPTION:第三场【小组】B组\n【时间】北京: 6/13 03:00 | 当地: 6/12 15:00\n【场地】多伦多 - BMO球场\n【历史战绩】双方历史交锋 1 次，波黑 1 胜 0 负。
 LOCATION:Toronto Stadium, Canada
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:⚽ [D组] 美国 vs 巴拉圭 - 老练照相馆
+SUMMARY:⚽ 第四场 [D组] 美国 vs 巴拉圭 - 老练照相馆
 DTSTART;TZID=Asia/Shanghai:20260613T090000
 DTEND;TZID=Asia/Shanghai:20260613T113000
-UID:2026WC-M04-LAOLIAN-SIMP
-DESCRIPTION:【小组】D组\n【时间】北京: 6/13 09:00 | 当地: 6/12 18:00\n【场地】洛杉矶 - SoFi体育场\n【历史战绩】双方历史交锋 8 次，美国 4 胜 2 平 2 负占优。
+UID:2026WC-M04-LL-FIX
+DESCRIPTION:第四场【小组】D组\n【时间】北京: 6/13 09:00 | 当地: 6/12 18:00\n【场地】洛杉矶 - SoFi体育场\n【历史战绩】双方历史交锋 8 次，美国 4 胜 2 平 2 负占优。
 LOCATION:SoFi Stadium, USA
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:⚽ [C组] 巴西 vs 摩洛哥 - 老练照相馆
+SUMMARY:⚽ 第五场 [B组] 卡塔尔 vs 瑞士 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260614T030000
+DTEND;TZID=Asia/Shanghai:20260614T053000
+UID:2026WC-M05-LL-FIX
+DESCRIPTION:第五场【小组】B组\n【时间】北京: 6/14 03:00\n【场地】旧金山湾区体育场\n【备注】老练照相馆祝您观赛愉快。
+LOCATION:Levi's Stadium, Santa Clara
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第六场 [C组] 巴西 vs 摩洛哥 - 老练照相馆
 DTSTART;TZID=Asia/Shanghai:20260614T060000
 DTEND;TZID=Asia/Shanghai:20260614T083000
-UID:2026WC-M05-LAOLIAN-SIMP
-DESCRIPTION:【小组】C组\n【时间】北京: 6/14 06:00 | 当地: 6/13 18:00\n【场地】新泽西 - 大都会人寿体育场\n【历史战绩】双方历史交锋 3 次，巴西 2 胜 1 负。2023年摩洛哥曾 2:1 击败巴西。
+UID:2026WC-M06-LL-FIX
+DESCRIPTION:第六场【小组】C组\n【时间】北京: 6/14 06:00 | 当地: 6/13 18:00\n【场地】新泽西 - 大都会人寿体育场\n【历史战绩】双方历史交锋 3 次，巴西 2 胜 1 负。
 LOCATION:MetLife Stadium, New Jersey
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:⚽ [E组] 德国 vs 库拉索 - 老练照相馆
+SUMMARY:⚽ 第七场 [C组] 海地 vs 苏格兰 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260614T090000
+DTEND;TZID=Asia/Shanghai:20260614T113000
+UID:2026WC-M07-LL-FIX
+DESCRIPTION:第七场【小组】C组\n【时间】北京: 6/14 09:00\n【场地】波士顿吉列体育场
+LOCATION:Gillette Stadium, Boston
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第八场 [D组] 澳大利亚 vs 土耳其 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260614T120000
+DTEND;TZID=Asia/Shanghai:20260614T143000
+UID:2026WC-M08-LL-FIX
+DESCRIPTION:第八场【小组】D组\n【时间】北京: 6/14 12:00\n【场地】温哥华不列颠哥伦比亚体育场
+LOCATION:BC Place, Vancouver
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第九场 [E组] 德国 vs 库拉索 - 老练照相馆
 DTSTART;TZID=Asia/Shanghai:20260615T010000
 DTEND;TZID=Asia/Shanghai:20260615T033000
-UID:2026WC-M06-LAOLIAN-SIMP
-DESCRIPTION:【小组】E组\n【时间】北京: 6/15 01:00 | 当地: 6/14 12:00\n【场地】休斯顿 - NRG体育场\n【历史战绩】双方历史上无正式比赛交锋记录。
+UID:2026WC-M09-LL-FIX
+DESCRIPTION:第九场【小组】E组\n【时间】北京: 6/15 01:00 | 当地: 6/14 12:00\n【场地】休斯顿 - NRG体育场\n【历史战绩】双方历史上无正式比赛交锋记录。
 LOCATION:NRG Stadium, Houston, USA
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:⚽ [J组] 阿根廷 vs 阿尔及利亚 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260617T050000
-DTEND;TZID=Asia/Shanghai:20260617T073000
-UID:2026WC-M07-LAOLIAN-SIMP
-DESCRIPTION:【小组】J组\n【时间】北京: 6/17 05:00 | 当地: 6/16 16:00\n【场地】堪萨斯城 - 箭头体育场\n【历史战绩】双方历史交锋 2 次，阿根廷 1 胜 1 平保持不败。
-LOCATION:Arrowhead Stadium, USA
+SUMMARY:⚽ 第十场 [F组] 荷兰 vs 日本 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260615T040000
+DTEND;TZID=Asia/Shanghai:20260615T063000
+UID:2026WC-M10-LL-FIX
+DESCRIPTION:第十场【小组】F组\n【时间】北京: 6/15 04:00\n【场地】达拉斯体育场\n【备注】焦点战，看郁金香对阵蓝武士。
+LOCATION:AT&T Stadium, Dallas
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:🔥 [L组] 英格兰 vs 克罗地亚 - 老练照相馆
+SUMMARY:⚽ 第十一场 [E组] 科特迪瓦 vs 厄瓜多尔 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260615T070000
+DTEND;TZID=Asia/Shanghai:20260615T093000
+UID:2026WC-M11-LL-FIX
+DESCRIPTION:第十一场【小组】E组\n【时间】北京: 6/15 07:00\n【场地】费城林肯金融球场\n【备注】老练照相馆温馨提醒：早起看球注意休息。
+LOCATION:Lincoln Financial Field, Philadelphia
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第十二场 [F组] 瑞典 vs 突尼斯 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260615T100000
+DTEND;TZID=Asia/Shanghai:20260615T123000
+UID:2026WC-M12-LL-FIX
+DESCRIPTION:第十二场【小组】F组\n【时间】北京: 6/15 10:00\n【场地】蒙特雷体育场\n【备注】北欧海盗与迦太基雄鹰的对决。
+LOCATION:Estadio BBVA, Monterrey
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第十三场 [H组] 西班牙 vs 佛得角 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260616T000000
+DTEND;TZID=Asia/Shanghai:20260616T023000
+UID:2026WC-M13-LL-FIX
+DESCRIPTION:第十三场【小组】H组\n【时间】北京: 6/16 00:00\n【场地】亚特兰大梅赛德斯-奔驰体育场\n【历史战绩】斗牛士军团实力占优。
+LOCATION:Mercedes-Benz Stadium, Atlanta
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第十四场 [G组] 比利时 vs 埃及 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260616T030000
+DTEND;TZID=Asia/Shanghai:20260616T053000
+UID:2026WC-M14-LL-FIX
+DESCRIPTION:第十四场【小组】G组\n【时间】北京: 6/16 03:00\n【场地】西雅图伦门体育场\n【备注】欧洲红魔对阵法老王萨拉赫。
+LOCATION:Lumen Field, Seattle
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第十五场 [H组] 沙特阿拉伯 vs 乌拉圭 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260616T060000
+DTEND;TZID=Asia/Shanghai:20260616T083000
+UID:2026WC-M15-LL-FIX
+DESCRIPTION:第十五场【小组】H组\n【时间】北京: 6/16 06:00\n【场地】迈阿密硬石体育场\n【备注】南美劲旅对阵亚洲绿鹰。
+LOCATION:Hard Rock Stadium, Miami
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第十六场 [G组] 伊朗 vs 新西兰 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260616T090000
+DTEND;TZID=Asia/Shanghai:20260616T113000
+UID:2026WC-M16-LL-FIX
+DESCRIPTION:第十六场【小组】G组\n【时间】北京: 6/16 09:00\n【场地】洛杉矶 SoFi 体育场
+LOCATION:SoFi Stadium, Los Angeles
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第十七场 [I组] 法国 vs 塞内加尔 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260617T030000
+DTEND;TZID=Asia/Shanghai:20260617T053000
+UID:2026WC-M17-LL-FIX
+DESCRIPTION:第十七场【小组】I组\n【时间】北京: 6/17 03:00\n【场地】纽约/新泽西大都会人寿体育场\n【备注】重温2002年世界杯经典的对决。
+LOCATION:MetLife Stadium, East Rutherford
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第十八场 [I组] 伊拉克 vs 挪威 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260617T060000
+DTEND;TZID=Asia/Shanghai:20260617T083000
+UID:2026WC-M18-LL-FIX
+DESCRIPTION:第十八场【小组】I组\n【时间】北京: 6/17 06:00\n【场地】波士顿吉列体育场\n【备注】看挪威神锋哈兰德的世界杯首战表现。
+LOCATION:Gillette Stadium, Foxborough
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第十九场 [J组] 阿根廷 vs 阿尔及利亚 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260617T090000
+DTEND;TZID=Asia/Shanghai:20260617T113000
+UID:2026WC-M19-LL-FIX
+DESCRIPTION:第十九场【小组】J组\n【时间】北京: 6/17 09:00\n【场地】堪萨斯城箭头体育场\n【备注】卫冕冠军阿根廷首秀。
+LOCATION:Arrowhead Stadium, Kansas City
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第二十场 [J组] 奥地利 vs 约旦 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260617T120000
+DTEND;TZID=Asia/Shanghai:20260617T143000
+UID:2026WC-M20-LL-FIX
+DESCRIPTION:第二十场【小组】J组\n【时间】北京: 6/17 12:00\n【场地】旧金山李维斯体育场
+LOCATION:Levi's Stadium, Santa Clara
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第二十一场 [L组] 英格兰 vs 克罗地亚 - 老练照相馆
 DTSTART;TZID=Asia/Shanghai:20260618T000000
 DTEND;TZID=Asia/Shanghai:20260618T023000
-UID:2026WC-M08-LAOLIAN-SIMP
-DESCRIPTION:【小组】L组\n【时间】北京: 6/18 00:00 | 当地: 6/17 11:00\n【场地】达拉斯 - AT&T体育场\n【历史战绩】双方历史交锋 11 次，英格兰 6 胜 2 平 3 负占优。
-LOCATION:AT&T Stadium, Texas, USA
+UID:2026WC-M21-LL-FIX
+DESCRIPTION:第二十一场【小组】L组\n【时间】北京: 6/18 00:00 | 当地: 6/17 11:00\n【场地】达拉斯 - AT&T体育场\n【备注】强强对话，老练照相馆陪您看球。
+LOCATION:AT&T Stadium, Dallas
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第二十二场 [K组] 葡萄牙 vs 叙利亚 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260618T030000
+DTEND;TZID=Asia/Shanghai:20260618T053000
+UID:2026WC-M22-LL-FIX
+DESCRIPTION:第二十二场【小组】K组\n【时间】北京: 6/18 03:00\n【场地】亚特兰大梅赛德斯-奔驰体育场
+LOCATION:Mercedes-Benz Stadium, Atlanta
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第二十三场 [L组] 加纳 vs 库克群岛 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260618T060000
+DTEND;TZID=Asia/Shanghai:20260618T083000
+UID:2026WC-M23-LL-FIX
+DESCRIPTION:第二十三场【小组】L组\n【时间】北京: 6/18 06:00\n【场地】休斯顿 - NRG体育场
+LOCATION:NRG Stadium, Houston
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第二十四场 [K组] 哥斯达黎加 vs 喀麦隆 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260618T090000
+DTEND;TZID=Asia/Shanghai:20260618T113000
+UID:2026WC-M24-LL-FIX
+DESCRIPTION:第二十四场【小组】K组\n【时间】北京: 6/18 09:00\n【场地】墨西哥城 - 阿兹特克体育场
+LOCATION:Estadio Azteca, Mexico City
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第二十五场 [A组] 墨西哥 vs 捷克 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260619T030000
+DTEND;TZID=Asia/Shanghai:20260619T053000
+UID:2026WC-M25-LL-FIX
+DESCRIPTION:第二十五场【小组】A组\n【时间】北京: 6/19 03:00\n【场地】多伦多 - BMO球场\n【备注】东道主第二轮关键战。
+LOCATION:Toronto Stadium, Canada
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第二十六场 [A组] 南非 vs 韩国 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260619T060000
+DTEND;TZID=Asia/Shanghai:20260619T083000
+UID:2026WC-M26-LL-FIX
+DESCRIPTION:第二十六场【小组】A组\n【时间】北京: 6/19 06:00\n【场地】迈阿密硬石体育场
+LOCATION:Hard Rock Stadium, Miami
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第二十七场 [B组] 加拿大 vs 瑞士 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260619T090000
+DTEND;TZID=Asia/Shanghai:20260619T113000
+UID:2026WC-M27-LL-FIX
+DESCRIPTION:第二十七场【小组】B组\n【时间】北京: 6/19 09:00\n【场地】西雅图伦门体育场
+LOCATION:Lumen Field, Seattle
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第二十八场 [B组] 波黑 vs 卡塔尔 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260620T000000
+DTEND;TZID=Asia/Shanghai:20260620T023000
+UID:2026WC-M28-LL-FIX
+DESCRIPTION:第二十八场【小组】B组\n【时间】北京: 6/20 00:00\n【场地】蒙特雷体育场
+LOCATION:Estadio BBVA, Monterrey
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第二十九场 [C组] 巴西 vs 瑞典 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260620T030000
+DTEND;TZID=Asia/Shanghai:20260620T053000
+UID:2026WC-M29-LL-FIX
+DESCRIPTION:第二十九场【小组】C组\n【时间】北京: 6/20 03:00\n【场地】纽约/新泽西大都会人寿体育场\n【历史战绩】经典对决，五星巴西期待连胜。
+LOCATION:MetLife Stadium, New Jersey
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第三十场 [C组] 摩洛哥 vs 海地 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260620T060000
+DTEND;TZID=Asia/Shanghai:20260620T083000
+UID:2026WC-M30-LL-FIX
+DESCRIPTION:第三十场【小组】C组\n【时间】北京: 6/20 06:00\n【场地】费城林肯金融球场
+LOCATION:Lincoln Financial Field, Philadelphia
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第三十一场 [D组] 美国 vs 突尼斯 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260620T090000
+DTEND;TZID=Asia/Shanghai:20260620T113000
+UID:2026WC-M31-LL-FIX
+DESCRIPTION:第三十场【小组】D组\n【时间】北京: 6/20 09:00\n【场地】旧金山湾区体育场
+LOCATION:Levi's Stadium, Santa Clara
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第三十二场 [D组] 巴拉圭 vs 澳大利亚 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260620T120000
+DTEND;TZID=Asia/Shanghai:20260620T143000
+UID:2026WC-M32-LL-FIX
+DESCRIPTION:第三十二场【小组】D组\n【时间】北京: 6/20 12:00\n【场地】温哥华不列颠哥伦比亚体育场
+LOCATION:BC Place, Vancouver
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第三十三场 [E组] 德国 vs 乌拉圭 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260621T030000
+DTEND;TZID=Asia/Shanghai:20260621T053000
+UID:2026WC-M33-LL-FIX
+DESCRIPTION:第三十三场【小组】E组\n【时间】北京: 6/21 03:00\n【场地】亚特兰大梅赛德斯-奔驰体育场\n【备注】昔日冠军对垒，老练照相馆邀您赏球。
+LOCATION:Mercedes-Benz Stadium, Atlanta
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第三十四场 [E组] 库拉索 vs 科特迪瓦 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260621T060000
+DTEND;TZID=Asia/Shanghai:20260621T083000
+UID:2026WC-M34-LL-FIX
+DESCRIPTION:第三十四场【小组】E组\n【时间】北京: 6/21 06:00\n【场地】迈阿密硬石体育场
+LOCATION:Hard Rock Stadium, Miami
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第三十五场 [F组] 荷兰 vs 瑞典 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260621T090000
+DTEND;TZID=Asia/Shanghai:20260621T113000
+UID:2026WC-M35-LL-FIX
+DESCRIPTION:第三十五场【小组】F组\n【时间】北京: 6/21 09:00\n【场地】波士顿吉列体育场\n【备注】橙衣军团迎战北欧强敌。
+LOCATION:Gillette Stadium, Boston
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第三十六场 [F组] 日本 vs 突尼斯 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260621T120000
+DTEND;TZID=Asia/Shanghai:20260621T143000
+UID:2026WC-M36-LL-FIX
+DESCRIPTION:第三十六场【小组】F组\n【时间】北京: 6/21 12:00\n【场地】墨西哥城 - 阿兹特克体育场
+LOCATION:Estadio Azteca, Mexico City
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第三十七场 [G组] 法国 vs 埃及 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260622T030000
+DTEND;TZID=Asia/Shanghai:20260622T053000
+UID:2026WC-M37-LL-FIX
+DESCRIPTION:第三十七场【小组】G组\n【时间】北京: 6/22 03:00\n【场地】达拉斯体育场\n【备注】姆巴佩对阵法老萨拉赫。
+LOCATION:AT&T Stadium, Dallas
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第三十八场 [G组] 赞比亚 vs 伊朗 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260622T060000
+DTEND;TZID=Asia/Shanghai:20260622T083000
+UID:2026WC-M38-LL-FIX
+DESCRIPTION:第三十八场【小组】G组\n【时间】北京: 6/22 06:00\n【场地】休斯顿 - NRG体育场
+LOCATION:NRG Stadium, Houston
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第三十九场 [H组] 西班牙 vs 意大利 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260622T090000
+DTEND;TZID=Asia/Shanghai:20260622T113000
+UID:2026WC-M39-LL-FIX
+DESCRIPTION:第三十九场【小组】H组\n【时间】北京: 6/22 09:00\n【场地】洛杉矶 SoFi 体育场\n【备注】欧陆豪强巅峰对决。
+LOCATION:SoFi Stadium, Los Angeles
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第四十场 [H组] 佛得角 vs 沙特阿拉伯 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260622T120000
+DTEND;TZID=Asia/Shanghai:20260622T143000
+UID:2026WC-M40-LL-FIX
+DESCRIPTION:第四十场【小组】H组\n【时间】北京: 6/22 12:00\n【场地】堪萨斯城箭头体育场
+LOCATION:Arrowhead Stadium, Kansas City
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第四十一场 [I组] 荷兰 vs 塞内加尔 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260623T030000
+DTEND;TZID=Asia/Shanghai:20260623T053000
+UID:2026WC-M41-LL-FIX
+DESCRIPTION:第四十一场【小组】I组\n【时间】北京: 6/23 03:00\n【场地】纽约/新泽西大都会人寿体育场
+LOCATION:MetLife Stadium, New Jersey
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第四十二场 [I组] 厄瓜多尔 vs 伊拉克 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260623T060000
+DTEND;TZID=Asia/Shanghai:20260623T083000
+UID:2026WC-M42-LL-FIX
+DESCRIPTION:第四十二场【小组】I组\n【时间】北京: 6/23 06:00\n【场地】波士顿吉列体育场
+LOCATION:Gillette Stadium, Boston
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第四十三场 [J组] 阿根廷 vs 奥地利 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260623T090000
+DTEND;TZID=Asia/Shanghai:20260623T113000
+UID:2026WC-M43-LL-FIX
+DESCRIPTION:第四十三场【小组】J组\n【时间】北京: 6/23 09:00\n【场地】洛杉矶 SoFi 体育场\n【备注】阿根廷出线关键战。
+LOCATION:SoFi Stadium, Los Angeles
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第四十四场 [J组] 阿尔及利亚 vs 约旦 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260623T120000
+DTEND;TZID=Asia/Shanghai:20260623T143000
+UID:2026WC-M44-LL-FIX
+DESCRIPTION:第四十四场【小组】J组\n【时间】北京: 6/23 12:00\n【场地】温哥华不列颠哥伦比亚体育场
+LOCATION:BC Place, Vancouver
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第四十五场 [K组] 葡萄牙 vs 喀麦隆 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260624T030000
+DTEND;TZID=Asia/Shanghai:20260624T053000
+UID:2026WC-M45-LL-FIX
+DESCRIPTION:第四十五场【小组】K组\n【时间】北京: 6/24 03:00\n【场地】迈阿密硬石体育场\n【备注】老练照相馆为您锁定精彩对决。
+LOCATION:Hard Rock Stadium, Miami
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第四十六场 [K组] 叙利亚 vs 哥斯达黎加 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260624T060000
+DTEND;TZID=Asia/Shanghai:20260624T083000
+UID:2026WC-M46-LL-FIX
+DESCRIPTION:第四十六场【小组】K组\n【时间】北京: 6/24 06:00\n【场地】休斯顿 - NRG体育场
+LOCATION:NRG Stadium, Houston
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第四十七场 [L组] 英格兰 vs 库克群岛 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260624T090000
+DTEND;TZID=Asia/Shanghai:20260624T113000
+UID:2026WC-M47-LL-FIX
+DESCRIPTION:第四十七场【小组】L组\n【时间】北京: 6/24 09:00\n【场地】旧金山湾区体育场
+LOCATION:Levi's Stadium, Santa Clara
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第四十八场 [L组] 克罗地亚 vs 加纳 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260624T120000
+DTEND;TZID=Asia/Shanghai:20260624T143000
+UID:2026WC-M48-LL-FIX
+DESCRIPTION:第四十八场【小组】L组\n【时间】北京: 6/24 12:00\n【场地】西雅图伦门体育场
+LOCATION:Lumen Field, Seattle
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第四十九场 [A组] 墨西哥 vs 韩国 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260625T030000
+DTEND;TZID=Asia/Shanghai:20260625T053000
+UID:2026WC-M49-LL-FIX
+DESCRIPTION:第四十九场【小组】A组第三轮\n【时间】北京: 6/25 03:00\n【场地】墨西哥城 - 阿兹特克体育场\n【备注】生死战，看谁能顺利出线。
+LOCATION:Estadio Azteca, Mexico City
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第五十场 [A组] 捷克 vs 南非 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260625T060000
+DTEND;TZID=Asia/Shanghai:20260625T083000
+UID:2026WC-M50-LL-FIX
+DESCRIPTION:第五十场【小组】A组第三轮\n【时间】北京: 6/25 06:00\n【场地】多伦多 - BMO球场
+LOCATION:Toronto Stadium, Canada
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第五十一场 [B组] 加拿大 vs 卡塔尔 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260625T090000
+DTEND;TZID=Asia/Shanghai:20260625T113000
+UID:2026WC-M51-LL-FIX
+DESCRIPTION:第五十一场【小组】B组第三轮\n【时间】北京: 6/25 09:00\n【场地】温哥华不列颠哥伦比亚体育场
+LOCATION:BC Place, Vancouver
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第五十二场 [B组] 瑞士 vs 波黑 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260625T120000
+DTEND;TZID=Asia/Shanghai:20260625T143000
+UID:2026WC-M52-LL-FIX
+DESCRIPTION:第五十二场【小组】B组第三轮\n【时间】北京: 6/25 12:00\n【场地】旧金山湾区体育场
+LOCATION:Levi's Stadium, Santa Clara
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第五十三场 [C组] 巴西 vs 海地 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260626T030000
+DTEND;TZID=Asia/Shanghai:20260626T053000
+UID:2026WC-M53-LL-FIX
+DESCRIPTION:第五十三场【小组】C组第三轮\n【时间】北京: 6/26 03:00\n【场地】迈阿密硬石体育场
+LOCATION:Hard Rock Stadium, Miami
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第五十四场 [C组] 瑞典 vs 摩洛哥 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260626T060000
+DTEND;TZID=Asia/Shanghai:20260626T083000
+UID:2026WC-M54-LL-FIX
+DESCRIPTION:第五十四场【小组】C组第三轮\n【时间】北京: 6/26 06:00\n【场地】亚特兰大梅赛德斯-奔驰体育场\n【备注】事关出线的强强对话。
+LOCATION:Mercedes-Benz Stadium, Atlanta
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第五十五场 [D组] 美国 vs 澳大利亚 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260626T090000
+DTEND;TZID=Asia/Shanghai:20260626T113000
+UID:2026WC-M55-LL-FIX
+DESCRIPTION:第五十五场【小组】D组第三轮\n【时间】北京: 6/26 09:00\n【场地】洛杉矶 SoFi 体育场\n【备注】老练照相馆陪您见证东道主出线之战。
+LOCATION:SoFi Stadium, Los Angeles
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第五十六场 [D组] 突尼斯 vs 巴拉圭 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260626T120000
+DTEND;TZID=Asia/Shanghai:20260626T143000
+UID:2026WC-M56-LL-FIX
+DESCRIPTION:第五十六场【小组】D组第三轮\n【时间】北京: 6/26 12:00\n【场地】西雅图伦门体育场
+LOCATION:Lumen Field, Seattle
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第五十七场 [E组] 德国 vs 科特迪瓦 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260627T030000
+DTEND;TZID=Asia/Shanghai:20260627T053000
+UID:2026WC-M57-LL-FIX
+DESCRIPTION:第五十七场【小组】E组第三轮\n【时间】北京: 6/27 03:00\n【场地】达拉斯体育场
+LOCATION:AT&T Stadium, Dallas
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第五十八场 [E组] 乌拉圭 vs 库拉索 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260627T060000
+DTEND;TZID=Asia/Shanghai:20260627T083000
+UID:2026WC-M58-LL-FIX
+DESCRIPTION:第五十八场【小组】E组第三轮\n【时间】北京: 6/27 06:00\n【场地】堪萨斯城箭头体育场
+LOCATION:Arrowhead Stadium, Kansas City
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第五十九场 [F组] 荷兰 vs 突尼斯 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260627T090000
+DTEND;TZID=Asia/Shanghai:20260627T113000
+UID:2026WC-M59-LL-FIX
+DESCRIPTION:第五十九场【小组】F组第三轮\n【时间】北京: 6/27 09:00\n【场地】纽约/新泽西大都会人寿体育场
+LOCATION:MetLife Stadium, New Jersey
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第六十场 [F组] 瑞典 vs 日本 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260627T120000
+DTEND;TZID=Asia/Shanghai:20260627T143000
+UID:2026WC-M60-LL-FIX
+DESCRIPTION:第六十场【小组】F组第三轮\n【时间】北京: 6/27 12:00\n【场地】休斯顿 - NRG体育场\n【备注】日耳曼战车与蓝武士的小组赛终局。
+LOCATION:NRG Stadium, Houston
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第六十一场 [G组] 法国 vs 伊朗 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260628T030000
+DTEND;TZID=Asia/Shanghai:20260628T053000
+UID:2026WC-M61-LL-FIX
+DESCRIPTION:第六十一场【小组】G组第三轮\n【时间】北京: 6/28 03:00\n【场地】波士顿吉列体育场
+LOCATION:Gillette Stadium, Boston
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第六十二场 [G组] 新西兰 vs 埃及 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260628T060000
+DTEND;TZID=Asia/Shanghai:20260628T083000
+UID:2026WC-M62-LL-FIX
+DESCRIPTION:第六十二场【小组】G组第三轮\n【时间】北京: 6/28 06:00\n【场地】费城林肯金融球场
+LOCATION:Lincoln Financial Field, Philadelphia
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第六十三场 [H组] 西班牙 vs 沙特阿拉伯 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260628T090000
+DTEND;TZID=Asia/Shanghai:20260628T113000
+UID:2026WC-M63-LL-FIX
+DESCRIPTION:第六十三场【小组】H组第三轮\n【时间】北京: 6/28 09:00\n【场地】迈阿密硬石体育场\n【备注】老练照相馆祝您观赛愉快。
+LOCATION:Hard Rock Stadium, Miami
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第六十四场 [H组] 意大利 vs 佛得角 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260628T120000
+DTEND;TZID=Asia/Shanghai:20260628T143000
+UID:2026WC-M64-LL-FIX
+DESCRIPTION:第六十四场【小组】H组第三轮\n【时间】北京: 6/28 12:00\n【场地】旧金山湾区体育场
+LOCATION:Levi's Stadium, Santa Clara
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第六十五场 [I组] 荷兰 vs 伊拉克 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260629T030000
+DTEND;TZID=Asia/Shanghai:20260629T053000
+UID:2026WC-M65-LL-FIX
+DESCRIPTION:第六十五场【小组】I组第三轮\n【时间】北京: 6/29 03:00\n【场地】亚特兰大梅赛德斯-奔驰体育场
+LOCATION:Mercedes-Benz Stadium, Atlanta
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第六十六场 [I组] 塞内加尔 vs 厄瓜多尔 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260629T060000
+DTEND;TZID=Asia/Shanghai:20260629T083000
+UID:2026WC-M66-LL-FIX
+DESCRIPTION:第六十六场【小组】I组第三轮\n【时间】北京: 6/29 06:00\n【场地】达拉斯体育场
+LOCATION:AT&T Stadium, Dallas
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第六十七场 [J组] 阿根廷 vs 约旦 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260629T090000
+DTEND;TZID=Asia/Shanghai:20260629T113000
+UID:2026WC-M67-LL-FIX
+DESCRIPTION:第六十七场【小组】J组第三轮\n【时间】北京: 6/29 09:00\n【场地】温哥华不列颠哥伦比亚体育场
+LOCATION:BC Place, Vancouver
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第六十八场 [J组] 奥地利 vs 阿尔及利亚 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260629T120000
+DTEND;TZID=Asia/Shanghai:20260629T143000
+UID:2026WC-M68-LL-FIX
+DESCRIPTION:第六十八场【小组】J组第三轮\n【时间】北京: 6/29 12:00\n【场地】西雅图伦门体育场
+LOCATION:Lumen Field, Seattle
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第六十九场 [K组] 葡萄牙 vs 哥斯达黎加 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260630T030000
+DTEND;TZID=Asia/Shanghai:20260630T053000
+UID:2026WC-M69-LL-FIX
+DESCRIPTION:第六十九场【小组】K组第三轮\n【时间】北京: 6/30 03:00\n【场地】洛杉矶 SoFi 体育场
+LOCATION:SoFi Stadium, Los Angeles
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第七十场 [K组] 叙利亚 vs 喀麦隆 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260630T060000
+DTEND;TZID=Asia/Shanghai:20260630T083000
+UID:2026WC-M70-LL-FIX
+DESCRIPTION:第七十场【小组】K组第三轮\n【时间】北京: 6/30 06:00\n【场地】堪萨斯城箭头体育场
+LOCATION:Arrowhead Stadium, Kansas City
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第七十一场 [L组] 英格兰 vs 加纳 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260630T090000
+DTEND;TZID=Asia/Shanghai:20260630T113000
+UID:2026WC-M71-LL-FIX
+DESCRIPTION:第七十一场【小组】L组第三轮\n【时间】北京: 6/30 09:00\n【场地】纽约/新泽西大都会人寿体育场
+LOCATION:MetLife Stadium, New Jersey
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚽ 第七十二场 [L组] 库克群岛 vs 克罗地亚 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260630T120000
+DTEND;TZID=Asia/Shanghai:20260630T143000
+UID:2026WC-M72-LL-FIX
+DESCRIPTION:第七十二场【小组】L组第三轮\n【时间】北京: 6/30 12:00\n【场地】蒙特雷体育场
+LOCATION:Estadio BBVA, Monterrey
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🚩 第七十三场 [32强赛] A1 vs C3/D3/E3 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260701T040000
+DTEND;TZID=Asia/Shanghai:20260701T070000
+UID:2026WC-M73-LL-FIX
+DESCRIPTION:第七十三场【32强淘汰赛】\n【对阵】A组第一 vs C/D/E组第三\n【场地】洛杉矶 SoFi 体育场\n【备注】老练照相馆陪您见证首场淘汰赛。
+LOCATION:SoFi Stadium, Los Angeles
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🚩 第七十四场 [32强赛] A2 vs B2 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260701T090000
+DTEND;TZID=Asia/Shanghai:20260701T120000
+UID:2026WC-M74-LL-FIX
+DESCRIPTION:第七十四场【32强淘汰赛】\n【对阵】A组第二 vs B组第二\n【场地】旧金山湾区体育场
+LOCATION:Levi's Stadium, Santa Clara
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🚩 第七十五场 [32强赛] B1 vs A3/C3/D3 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260702T030000
+DTEND;TZID=Asia/Shanghai:20260702T060000
+UID:2026WC-M75-LL-FIX
+DESCRIPTION:第七十五场【32强淘汰赛】\n【对阵】B组第一 vs A/C/D组第三\n【场地】不列颠哥伦比亚体育场
+LOCATION:BC Place, Vancouver
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🚩 第七十六场 [32强赛] E1 vs F2 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260702T070000
+DTEND;TZID=Asia/Shanghai:20260702T100000
+UID:2026WC-M76-LL-FIX
+DESCRIPTION:第七十六场【32强淘汰赛】\n【对阵】E组第一 vs F组第二\n【场地】休斯顿体育场
+LOCATION:NRG Stadium, Houston
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🚩 第七十七场 [32强赛] F1 vs E2 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260702T110000
+DTEND;TZID=Asia/Shanghai:20260702T140000
+UID:2026WC-M77-LL-FIX
+DESCRIPTION:第七十七场【32强淘汰赛】\n【对阵】F组第一 vs E组第二\n【场地】墨西哥城 - 阿兹特克体育场
+LOCATION:Estadio Azteca, Mexico City
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🚩 第七十八场 [32强赛] C1 vs A3/B3/F3 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260703T040000
+DTEND;TZID=Asia/Shanghai:20260703T070000
+UID:2026WC-M78-LL-FIX
+DESCRIPTION:第七十八场【32强淘汰赛】\n【对阵】C组第一 vs A/B/F组第三\n【场地】迈阿密硬石体育场
+LOCATION:Hard Rock Stadium, Miami
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🚩 第七十九场 [32强赛] D1 vs B3/E3/F3 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260703T080000
+DTEND;TZID=Asia/Shanghai:20260703T110000
+UID:2026WC-M79-LL-FIX
+DESCRIPTION:第七十九场【32强淘汰赛】\n【对阵】D组第一 vs B/E/F组第三\n【场地】达拉斯体育场
+LOCATION:AT&T Stadium, Dallas
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🚩 第八十场 [32强赛] G1 vs A3/E3/H3 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260703T120000
+DTEND;TZID=Asia/Shanghai:20260703T150000
+UID:2026WC-M80-LL-FIX
+DESCRIPTION:第八十场【32强淘汰赛】\n【对阵】G组第一 vs A/E/H组第三\n【场地】西雅图伦门体育场
+LOCATION:Lumen Field, Seattle
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🚩 第八十一场 [32强赛] H1 vs J2 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260704T050000
+DTEND;TZID=Asia/Shanghai:20260704T080000
+UID:2026WC-M81-LL-FIX
+DESCRIPTION:第八十一场【32强淘汰赛】\n【对阵】H组第一 vs J组第二\n【场地】纽约/新泽西大都会人寿体育场
+LOCATION:MetLife Stadium, New Jersey
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🚩 第八十二场 [32强赛] J1 vs H2 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260704T090000
+DTEND;TZID=Asia/Shanghai:20260704T120000
+UID:2026WC-M82-LL-FIX
+DESCRIPTION:第八十二场【32强淘汰赛】\n【对阵】J组第一 vs H组第二\n【场地】费城林肯金融球场
+LOCATION:Lincoln Financial Field, Philadelphia
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🚩 第八十三场 [32强赛] I1 vs C3/D3/G3 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260705T030000
+DTEND;TZID=Asia/Shanghai:20260705T060000
+UID:2026WC-M83-LL-FIX
+DESCRIPTION:第八十三场【32强淘汰赛】\n【对阵】I组第一 vs C/D/G组第三\n【场地】波士顿吉列体育场
+LOCATION:Gillette Stadium, Boston
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🚩 第八十四场 [32强赛] D2 vs G2 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260705T080000
+DTEND;TZID=Asia/Shanghai:20260705T110000
+UID:2026WC-M84-LL-FIX
+DESCRIPTION:第八十四场【32强淘汰赛】\n【对阵】D组第二 vs G组第二\n【场地】堪萨斯城箭头体育场
+LOCATION:Arrowhead Stadium, Kansas City
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🚩 第八十五场 [32强赛] K1 vs L2 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260706T040000
+DTEND;TZID=Asia/Shanghai:20260706T070000
+UID:2026WC-M85-LL-FIX
+DESCRIPTION:第八十五场【32强淘汰赛】\n【对阵】K组第一 vs L组第二\n【场地】达拉斯体育场
+LOCATION:AT&T Stadium, Dallas
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🚩 第八十六场 [32强赛] L1 vs K2 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260706T090000
+DTEND;TZID=Asia/Shanghai:20260706T120000
+UID:2026WC-M86-LL-FIX
+DESCRIPTION:第八十六场【32强淘汰赛】\n【对阵】L组第一 vs K组第二\n【场地】多伦多体育场
+LOCATION:Toronto Stadium, Canada
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🔥 第八十七场 [16强赛] M74胜者 vs M73胜者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260707T050000
+DTEND;TZID=Asia/Shanghai:20260707T080000
+UID:2026WC-M87-LL-FIX
+DESCRIPTION:第八十七场【1/8决赛】\n【对阵】第74场胜者 vs 第73场胜者\n【场地】亚特兰大体育场\n【备注】老练照相馆邀您见证16强巅峰对决。
+LOCATION:Mercedes-Benz Stadium, Atlanta
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🔥 第八十八场 [16强赛] M76胜者 vs M75胜者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260708T040000
+DTEND;TZID=Asia/Shanghai:20260708T070000
+UID:2026WC-M88-LL-FIX
+DESCRIPTION:第八十八场【1/8决赛】\n【对阵】第76场胜者 vs 第75场胜者\n【场地】温哥华体育场
+LOCATION:BC Place, Vancouver
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🔥 第八十九场 [16强赛] M78胜者 vs M77胜者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260708T090000
+DTEND;TZID=Asia/Shanghai:20260708T120000
+UID:2026WC-M89-LL-FIX
+DESCRIPTION:第八十九场【1/8决赛】\n【对阵】第78场胜者 vs 第77场胜者\n【场地】墨西哥城 - 阿兹特克体育场
+LOCATION:Estadio Azteca, Mexico City
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🔥 第九十场 [16强赛] M80胜者 vs M79胜者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260709T050000
+DTEND;TZID=Asia/Shanghai:20260709T080000
+UID:2026WC-M90-LL-FIX
+DESCRIPTION:第九十场【1/8决赛】\n【对阵】第80场胜者 vs 第79场胜者\n【场地】迈阿密体育场
+LOCATION:Hard Rock Stadium, Miami
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🔥 第九十一场 [16强赛] M82胜者 vs M81胜者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260710T040000
+DTEND;TZID=Asia/Shanghai:20260710T070000
+UID:2026WC-M91-LL-FIX
+DESCRIPTION:第九十一场【1/8决赛】\n【对阵】第82场胜者 vs 第81场胜者\n【场地】西雅图伦门体育场
+LOCATION:Lumen Field, Seattle
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🔥 第九十二场 [16强赛] M84胜者 vs M83胜者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260710T090000
+DTEND;TZID=Asia/Shanghai:20260710T120000
+UID:2026WC-M92-LL-FIX
+DESCRIPTION:第九十二场【1/8决赛】\n【对阵】第84场胜者 vs 第83场胜者\n【场地】洛杉矶 SoFi 体育场
+LOCATION:SoFi Stadium, Los Angeles
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🔥 第九十三场 [16强赛] M86胜者 vs M85胜者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260711T040000
+DTEND;TZID=Asia/Shanghai:20260711T070000
+UID:2026WC-M93-LL-FIX
+DESCRIPTION:第九十三场【1/8决赛】\n【对阵】第86场胜者 vs 第85场胜者\n【场地】休斯顿 - NRG体育场
+LOCATION:NRG Stadium, Houston
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🔥 第九十四场 [16强赛] M88胜者 vs M87胜者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260711T090000
+DTEND;TZID=Asia/Shanghai:20260711T120000
+UID:2026WC-M94-LL-FIX
+DESCRIPTION:第九十四场【1/8决赛】\n【对阵】第88场胜者 vs 第87场胜者\n【场地】费城林肯金融球场
+LOCATION:Lincoln Financial Field, Philadelphia
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚡ 第九十五场 [1/4决赛] M89胜者 vs M90胜者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260712T040000
+DTEND;TZID=Asia/Shanghai:20260712T070000
+UID:2026WC-M95-LL-FIX
+DESCRIPTION:第九十五场【1/4决赛】\n【对阵】第89场胜者 vs 第90场胜者\n【场地】波士顿吉列体育场\n【备注】八强争霸，老练照相馆与您共同见证。
+LOCATION:Gillette Stadium, Boston
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚡ 第九十六场 [1/4决赛] M91胜者 vs M92胜者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260712T090000
+DTEND;TZID=Asia/Shanghai:20260712T120000
+UID:2026WC-M96-LL-FIX
+DESCRIPTION:第九十六场【1/4决赛】\n【对阵】第91场胜者 vs 第92场胜者\n【场地】洛杉矶 SoFi 体育场
+LOCATION:SoFi Stadium, Los Angeles
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚡ 第九十七场 [1/4决赛] M93胜者 vs M94胜者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260713T040000
+DTEND;TZID=Asia/Shanghai:20260713T070000
+UID:2026WC-M97-LL-FIX
+DESCRIPTION:第九十七场【1/4决赛】\n【对阵】第93场胜者 vs 第94场胜者\n【场地】迈阿密硬石体育场
+LOCATION:Hard Rock Stadium, Miami
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:⚡ 第九十八场 [1/4决赛] M95胜者 vs M96胜者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260713T090000
+DTEND;TZID=Asia/Shanghai:20260713T120000
+UID:2026WC-M98-LL-FIX
+DESCRIPTION:第九十八场【1/4决赛】\n【对阵】第95场胜者 vs 第96场胜者\n【场地】堪萨斯城箭头体育场
+LOCATION:Arrowhead Stadium, Kansas City
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🌟 第九十九场 [半决赛] M95胜者 vs M96胜者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260715T080000
+DTEND;TZID=Asia/Shanghai:20260715T110000
+UID:2026WC-M99-LL-FIX
+DESCRIPTION:第九十九场【半决赛】\n【场地】达拉斯 AT&T 体育场\n【备注】半决赛首场。
+LOCATION:AT&T Stadium, Dallas
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🌟 第一百场 [半决赛] M97胜者 vs M98胜者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260716T080000
+DTEND;TZID=Asia/Shanghai:20260716T110000
+UID:2026WC-M100-LL-FIX
+DESCRIPTION:第一百场【半决赛】\n【场地】亚特兰大梅赛德斯-奔驰体育场\n【备注】老练照相馆祝您观赛愉快。
+LOCATION:Mercedes-Benz Stadium, Atlanta
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🥉 第一百零三场 [季军赛] M99负者 vs M100负者 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260719T040000
+DTEND;TZID=Asia/Shanghai:20260719T070000
+UID:2026WC-M103-LL-FIX
+DESCRIPTION:第一百零三场【季军争夺战】\n【场地】迈阿密硬石体育场
+LOCATION:Hard Rock Stadium, Miami
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:🏆 第一百零四场 [决赛] 2026 世界杯终极决战 - 老练照相馆
+DTSTART;TZID=Asia/Shanghai:20260720T040000
+DTEND;TZID=Asia/Shanghai:20260720T080000
+UID:2026WC-M104-LL-FIX
+DESCRIPTION:第一百零四场【决赛】\n【场地】纽约/新泽西 - 大都会人寿体育场\n【备注】老练照相馆与您一同见证世界冠军的诞生！
+LOCATION:MetLife Stadium, New Jersey
 STATUS:CONFIRMED
 END:VEVENT
 
