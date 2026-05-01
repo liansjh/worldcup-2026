@@ -8,8 +8,8 @@ X-WR-TIMEZONE:Asia/Shanghai
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第1场 福州 vs 厦门 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260419T153000
-DTEND;TZID=Asia/Shanghai:20260419T173000
+DTSTART;TZID=Asia/Shanghai:20260419T193500
+DTEND;TZID=Asia/Shanghai:20260419T213500
 UID:FJ-M01
 DESCRIPTION:第一轮\n【主队】福州队\n【场地】福州海峡奥林匹克体育中心 (约60000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:福州海峡奥林匹克体育中心
@@ -17,8 +17,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第2场 龙岩 vs 漳州 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260425T153000
-DTEND;TZID=Asia/Shanghai:20260425T173000
+DTSTART;TZID=Asia/Shanghai:20260425T193500
+DTEND;TZID=Asia/Shanghai:20260425T213500
 UID:FJ-M02
 DESCRIPTION:第一轮\n【主队】龙岩队\n【场地】长汀万人体育场 (约10000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:长汀万人体育场
@@ -26,8 +26,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第3场 平潭 vs 三明 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260425T153000
-DTEND;TZID=Asia/Shanghai:20260425T173000
+DTSTART;TZID=Asia/Shanghai:20260425T193500
+DTEND;TZID=Asia/Shanghai:20260425T213500
 UID:FJ-M03
 DESCRIPTION:第一轮\n【主队】平潭队\n【场地】平潭综合实验区综合训练中心体育场 (约10000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:平潭综合实验区综合训练中心体育场
@@ -35,8 +35,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第4场 宁德 vs 南平 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260425T153000
-DTEND;TZID=Asia/Shanghai:20260425T173000
+DTSTART;TZID=Asia/Shanghai:20260425T193500
+DTEND;TZID=Asia/Shanghai:20260425T213500
 UID:FJ-M04
 DESCRIPTION:第一轮\n【主队】宁德队\n【场地】宁德体育中心 (约25000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:宁德体育中心
@@ -44,8 +44,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第5场 莆田 vs 泉州 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260425T153000
-DTEND;TZID=Asia/Shanghai:20260425T173000
+DTSTART;TZID=Asia/Shanghai:20260425T193500
+DTEND;TZID=Asia/Shanghai:20260425T213500
 UID:FJ-M05
 DESCRIPTION:第一轮\n【主队】莆田队\n【场地】莆田体育中心 (约30000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:莆田体育中心
@@ -53,8 +53,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第6场 厦门 vs 漳州 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260501T153000
-DTEND;TZID=Asia/Shanghai:20260501T173000
+DTSTART;TZID=Asia/Shanghai:20260501T193500
+DTEND;TZID=Asia/Shanghai:20260501T213500
 UID:FJ-M06
 DESCRIPTION:第二轮\n【主队】厦门队\n【场地】厦门体育中心 (约30000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:厦门体育中心
@@ -62,8 +62,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第7场 泉州 vs 福州 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260502T153000
-DTEND;TZID=Asia/Shanghai:20260502T173000
+DTSTART;TZID=Asia/Shanghai:20260502T193500
+DTEND;TZID=Asia/Shanghai:20260502T213500
 UID:FJ-M07
 DESCRIPTION:第二轮\n【主队】泉州队\n【场地】泉州海峡体育中心 (约34000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:泉州海峡体育中心
@@ -71,8 +71,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第8场 南平 vs 莆田 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260503T153000
-DTEND;TZID=Asia/Shanghai:20260503T173000
+DTSTART;TZID=Asia/Shanghai:20260503T193500
+DTEND;TZID=Asia/Shanghai:20260503T213500
 UID:FJ-M08
 DESCRIPTION:第二轮\n【主队】南平队\n【场地】南平体育中心 (约25000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:南平体育中心
@@ -80,8 +80,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第9场 三明 vs 宁德 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260504T153000
-DTEND;TZID=Asia/Shanghai:20260504T173000
+DTSTART;TZID=Asia/Shanghai:20260504T193500
+DTEND;TZID=Asia/Shanghai:20260504T213500
 UID:FJ-M09
 DESCRIPTION:第二轮\n【主队】三明队\n【场地】永安体育中心 (约10000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:永安体育中心
@@ -89,8 +89,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第10场 龙岩 vs 平潭 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260505T153000
-DTEND;TZID=Asia/Shanghai:20260505T173000
+DTSTART;TZID=Asia/Shanghai:20260505T193500
+DTEND;TZID=Asia/Shanghai:20260505T213500
 UID:FJ-M10
 DESCRIPTION:第二轮\n【主队】龙岩队\n【场地】长汀万人体育场 (约10000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:长汀万人体育场
@@ -98,8 +98,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第11场 漳州 vs 平潭 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260510T153000
-DTEND;TZID=Asia/Shanghai:20260510T173000
+DTSTART;TZID=Asia/Shanghai:20260510T193500
+DTEND;TZID=Asia/Shanghai:20260510T213500
 UID:FJ-M11
 DESCRIPTION:第三轮\n【主队】漳州队\n【场地】漳州体育场 (约20000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:漳州体育场
@@ -107,8 +107,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第14场 福州 vs 南平 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260510T153000
-DTEND;TZID=Asia/Shanghai:20260510T173000
+DTSTART;TZID=Asia/Shanghai:20260510T193500
+DTEND;TZID=Asia/Shanghai:20260510T213500
 UID:FJ-M14
 DESCRIPTION:第三轮\n【主队】福州队\n【场地】福州海峡奥林匹克体育中心 (约60000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:福州海峡奥林匹克体育中心
@@ -116,8 +116,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第15场 厦门 vs 泉州 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260510T153000
-DTEND;TZID=Asia/Shanghai:20260510T173000
+DTSTART;TZID=Asia/Shanghai:20260510T193500
+DTEND;TZID=Asia/Shanghai:20260510T213500
 UID:FJ-M15
 DESCRIPTION:第三轮\n【主队】厦门队\n【场地】厦门体育中心 (约30000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:厦门体育中心
@@ -125,8 +125,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第16场 泉州 vs 漳州 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260516T153000
-DTEND;TZID=Asia/Shanghai:20260516T173000
+DTSTART;TZID=Asia/Shanghai:20260516T193500
+DTEND;TZID=Asia/Shanghai:20260516T213500
 UID:FJ-M16
 DESCRIPTION:第四轮\n【主队】泉州队\n【场地】泉州海峡体育中心 (约34000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:泉州海峡体育中心
@@ -134,8 +134,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第21场 漳州 vs 宁德 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260523T153000
-DTEND;TZID=Asia/Shanghai:20260523T173000
+DTSTART;TZID=Asia/Shanghai:20260523T193500
+DTEND;TZID=Asia/Shanghai:20260523T213500
 UID:FJ-M21
 DESCRIPTION:第五轮\n【主队】漳州队\n【场地】漳州体育场 (约20000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:漳州体育场
@@ -143,8 +143,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第22场 莆田 vs 平潭 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260523T153000
-DTEND;TZID=Asia/Shanghai:20260523T173000
+DTSTART;TZID=Asia/Shanghai:20260523T193500
+DTEND;TZID=Asia/Shanghai:20260523T213500
 UID:FJ-M22
 DESCRIPTION:第五轮\n【主队】莆田队\n【场地】莆田体育中心 (约30000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:莆田体育中心
@@ -152,8 +152,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第25场 泉州 vs 南平 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260523T153000
-DTEND;TZID=Asia/Shanghai:20260523T173000
+DTSTART;TZID=Asia/Shanghai:20260523T193500
+DTEND;TZID=Asia/Shanghai:20260523T213500
 UID:FJ-M25
 DESCRIPTION:第五轮\n【主队】泉州队\n【场地】泉州海峡体育中心 (约34000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:泉州海峡体育中心
@@ -161,8 +161,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第24场 厦门 vs 三明 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260524T153000
-DTEND;TZID=Asia/Shanghai:20260524T173000
+DTSTART;TZID=Asia/Shanghai:20260524T193500
+DTEND;TZID=Asia/Shanghai:20260524T213500
 UID:FJ-M24
 DESCRIPTION:第五轮\n【主队】厦门队\n【场地】厦门体育中心 (约30000人)\n【备注】如遇重大活动 or 极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:厦门体育中心
@@ -170,8 +170,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第26场 南平 vs 漳州 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260530T153000
-DTEND;TZID=Asia/Shanghai:20260530T173000
+DTSTART;TZID=Asia/Shanghai:20260530T193500
+DTEND;TZID=Asia/Shanghai:20260530T213500
 UID:FJ-M26
 DESCRIPTION:第六轮\n【主队】南平队\n【场地】南平体育中心 (约25000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:南平体育中心
@@ -179,8 +179,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第27场 三明 vs 泉州 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260530T153000
-DTEND;TZID=Asia/Shanghai:20260530T173000
+DTSTART;TZID=Asia/Shanghai:20260530T193500
+DTEND;TZID=Asia/Shanghai:20260530T213500
 UID:FJ-M27
 DESCRIPTION:第六轮\n【主队】三明队\n【场地】永安体育中心 (约10000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:永安体育中心
@@ -188,8 +188,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第28场 龙岩 vs 厦门 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260530T153000
-DTEND;TZID=Asia/Shanghai:20260530T173000
+DTSTART;TZID=Asia/Shanghai:20260530T193500
+DTEND;TZID=Asia/Shanghai:20260530T213500
 UID:FJ-M28
 DESCRIPTION:第六轮\n【主队】龙岩队\n【场地】长汀万人体育场 (约10000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:长汀万人体育场
@@ -197,8 +197,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第29场 平潭 vs 福州 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260530T153000
-DTEND;TZID=Asia/Shanghai:20260530T173000
+DTSTART;TZID=Asia/Shanghai:20260530T193500
+DTEND;TZID=Asia/Shanghai:20260530T213500
 UID:FJ-M29
 DESCRIPTION:第六轮\n【主队】平潭队\n【场地】平潭综合实验区综合训练中心体育场 (约10000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:平潭综合实验区综合训练中心体育场
@@ -206,8 +206,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第30场 宁德 vs 莆田 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260530T153000
-DTEND;TZID=Asia/Shanghai:20260530T173000
+DTSTART;TZID=Asia/Shanghai:20260530T193500
+DTEND;TZID=Asia/Shanghai:20260530T213500
 UID:FJ-M30
 DESCRIPTION:第六轮\n【主队】宁德队\n【场地】宁德体育中心 (约25000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:宁德体育中心
@@ -215,8 +215,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第31场 漳州 vs 莆田 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260613T153000
-DTEND;TZID=Asia/Shanghai:20260613T173000
+DTSTART;TZID=Asia/Shanghai:20260613T193500
+DTEND;TZID=Asia/Shanghai:20260613T213500
 UID:FJ-M31
 DESCRIPTION:第七轮\n【主队】漳州队\n【场地】漳州体育场 (约20000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:漳州体育场
@@ -224,8 +224,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第32场 福州 vs 宁德 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260613T153000
-DTEND;TZID=Asia/Shanghai:20260613T173000
+DTSTART;TZID=Asia/Shanghai:20260613T193500
+DTEND;TZID=Asia/Shanghai:20260613T213500
 UID:FJ-M32
 DESCRIPTION:第七轮\n【主队】福州队\n【场地】福州海峡奥林匹克体育中心 (约60000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:福州海峡奥林匹克体育中心
@@ -233,8 +233,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第33场 厦门 vs 平潭 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260613T153000
-DTEND;TZID=Asia/Shanghai:20260613T173000
+DTSTART;TZID=Asia/Shanghai:20260613T193500
+DTEND;TZID=Asia/Shanghai:20260613T213500
 UID:FJ-M33
 DESCRIPTION:第七轮\n【主队】厦门队\n【场地】厦门体育中心 (约30000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:厦门体育中心
@@ -242,8 +242,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第34场 泉州 vs 龙岩 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260613T153000
-DTEND;TZID=Asia/Shanghai:20260613T173000
+DTSTART;TZID=Asia/Shanghai:20260613T193500
+DTEND;TZID=Asia/Shanghai:20260613T213500
 UID:FJ-M34
 DESCRIPTION:第七轮\n【主队】泉州队\n【场地】泉州海峡体育中心 (约34000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:泉州海峡体育中心
@@ -251,8 +251,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第35场 南平 vs 三明 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260613T153000
-DTEND;TZID=Asia/Shanghai:20260613T173000
+DTSTART;TZID=Asia/Shanghai:20260613T193500
+DTEND;TZID=Asia/Shanghai:20260613T213500
 UID:FJ-M35
 DESCRIPTION:第七轮\n【主队】南平队\n【场地】南平体育中心 (约25000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:南平体育中心
@@ -260,8 +260,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第36场 三明 vs 漳州 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260620T153000
-DTEND;TZID=Asia/Shanghai:20260620T173000
+DTSTART;TZID=Asia/Shanghai:20260620T193500
+DTEND;TZID=Asia/Shanghai:20260620T213500
 UID:FJ-M36
 DESCRIPTION:第八轮\n【主队】三明队\n【场地】永安体育中心 (约10000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:永安体育中心
@@ -269,8 +269,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第37场 龙岩 vs 南平 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260620T153000
-DTEND;TZID=Asia/Shanghai:20260620T173000
+DTSTART;TZID=Asia/Shanghai:20260620T193500
+DTEND;TZID=Asia/Shanghai:20260620T213500
 UID:FJ-M37
 DESCRIPTION:第八轮\n【主队】龙岩队\n【场地】长汀万人体育场 (约10000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:长汀万人体育场
@@ -278,8 +278,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第38场 平潭 vs 泉州 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260620T153000
-DTEND;TZID=Asia/Shanghai:20260620T173000
+DTSTART;TZID=Asia/Shanghai:20260620T193500
+DTEND;TZID=Asia/Shanghai:20260620T213500
 UID:FJ-M38
 DESCRIPTION:第八轮\n【主队】平潭队\n【场地】平潭综合实验区综合训练中心体育场 (约10000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:平潭综合实验区综合训练中心体育场
@@ -287,8 +287,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第39场 宁德 vs 厦门 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260620T153000
-DTEND;TZID=Asia/Shanghai:20260620T173000
+DTSTART;TZID=Asia/Shanghai:20260620T193500
+DTEND;TZID=Asia/Shanghai:20260620T213500
 UID:FJ-M39
 DESCRIPTION:第八轮\n【主队】宁德队\n【场地】宁德体育中心 (约25000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:宁德体育中心
@@ -296,8 +296,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第40场 莆田 vs 福州 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260620T153000
-DTEND;TZID=Asia/Shanghai:20260620T173000
+DTSTART;TZID=Asia/Shanghai:20260620T193500
+DTEND;TZID=Asia/Shanghai:20260620T213500
 UID:FJ-M40
 DESCRIPTION:第八轮\n【主队】莆田队\n【场地】莆田体育中心 (约30000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:莆田体育中心
@@ -305,8 +305,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第41场 漳州 vs 福州 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260627T153000
-DTEND;TZID=Asia/Shanghai:20260627T173000
+DTSTART;TZID=Asia/Shanghai:20260627T193500
+DTEND;TZID=Asia/Shanghai:20260627T213500
 UID:FJ-M41
 DESCRIPTION:第九轮\n【主队】漳州队\n【场地】漳州体育场 (约20000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:漳州体育场
@@ -314,8 +314,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第43场 泉州 vs 宁德 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260627T153000
-DTEND;TZID=Asia/Shanghai:20260627T173000
+DTSTART;TZID=Asia/Shanghai:20260627T193500
+DTEND;TZID=Asia/Shanghai:20260627T213500
 UID:FJ-M43
 DESCRIPTION:第九轮\n【主队】泉州队\n【场地】泉州海峡体育中心 (约34000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:泉州海峡体育中心
@@ -323,8 +323,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第44场 南平 vs 平潭 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260627T153000
-DTEND;TZID=Asia/Shanghai:20260627T173000
+DTSTART;TZID=Asia/Shanghai:20260627T193500
+DTEND;TZID=Asia/Shanghai:20260627T213500
 UID:FJ-M44
 DESCRIPTION:第九轮\n【主队】南平队\n【场地】南平体育中心 (约25000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:南平体育中心
@@ -332,8 +332,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第45场 三明 vs 龙岩 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260627T153000
-DTEND;TZID=Asia/Shanghai:20260627T173000
+DTSTART;TZID=Asia/Shanghai:20260627T193500
+DTEND;TZID=Asia/Shanghai:20260627T213500
 UID:FJ-M45
 DESCRIPTION:第九轮\n【主队】三明队\n【场地】永安体育中心 (约10000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:永安体育中心
@@ -341,8 +341,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第23场 福州 vs 龙岩 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260704T153000
-DTEND;TZID=Asia/Shanghai:20260704T173000
+DTSTART;TZID=Asia/Shanghai:20260704T193500
+DTEND;TZID=Asia/Shanghai:20260704T213500
 UID:FJ-M23
 DESCRIPTION:第五轮(补赛)\n【主队】福州队\n【场地】福州海峡奥林匹克体育中心 (约60000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:福州海峡奥林匹克体育中心
@@ -350,8 +350,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:⚽ 第42场 厦门 vs 莆田 - 老练照相馆
-DTSTART;TZID=Asia/Shanghai:20260704T153000
-DTEND;TZID=Asia/Shanghai:20260704T173000
+DTSTART;TZID=Asia/Shanghai:20260704T193500
+DTEND;TZID=Asia/Shanghai:20260704T213500
 UID:FJ-M42
 DESCRIPTION:第九轮(补赛)\n【主队】厦门队\n【场地】厦门体育中心 (约30000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
 LOCATION:厦门体育中心
