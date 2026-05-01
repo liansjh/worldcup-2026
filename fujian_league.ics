@@ -7,7 +7,7 @@ X-WR-CALNAME:2026福建省城市足球联赛 (老练照相馆)
 X-WR-TIMEZONE:Asia/Shanghai
 
 BEGIN:VEVENT
-SUMMARY:⚽ 第1场 福州 vs 厦门 - 老练照相馆
+SUMMARY:⚽ 第1场 福州0 vs 厦门3 - 老练照相馆
 DTSTART;TZID=Asia/Shanghai:20260419T193500
 DTEND;TZID=Asia/Shanghai:20260419T213500
 UID:FJ-M01
@@ -16,7 +16,7 @@ LOCATION:福州海峡奥林匹克体育中心
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:⚽ 第2场 龙岩 vs 漳州 - 老练照相馆
+SUMMARY:⚽ 第2场 龙岩2 vs 漳州0 - 老练照相馆
 DTSTART;TZID=Asia/Shanghai:20260425T193500
 DTEND;TZID=Asia/Shanghai:20260425T213500
 UID:FJ-M02
@@ -25,7 +25,7 @@ LOCATION:长汀万人体育场
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:⚽ 第3场 平潭 vs 三明 - 老练照相馆
+SUMMARY:⚽ 第3场 平潭0 vs 三明1 - 老练照相馆
 DTSTART;TZID=Asia/Shanghai:20260425T193500
 DTEND;TZID=Asia/Shanghai:20260425T213500
 UID:FJ-M03
@@ -34,7 +34,7 @@ LOCATION:平潭综合实验区综合训练中心体育场
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:⚽ 第4场 宁德 vs 南平 - 老练照相馆
+SUMMARY:⚽ 第4场 宁德4 vs 南平0 - 老练照相馆
 DTSTART;TZID=Asia/Shanghai:20260425T193500
 DTEND;TZID=Asia/Shanghai:20260425T213500
 UID:FJ-M04
@@ -43,7 +43,7 @@ LOCATION:宁德体育中心
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:⚽ 第5场 莆田 vs 泉州 - 老练照相馆
+SUMMARY:⚽ 第5场 莆田0 vs 泉州1 - 老练照相馆
 DTSTART;TZID=Asia/Shanghai:20260425T193500
 DTEND;TZID=Asia/Shanghai:20260425T213500
 UID:FJ-M05
