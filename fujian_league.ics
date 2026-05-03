@@ -23,7 +23,9 @@ DTSTAMP:20260419T000000Z
 DTSTART;TZID=Asia/Shanghai:20260419T193500
 DTEND;TZID=Asia/Shanghai:20260419T213500
 SUMMARY:⚽ 第1场 福州0 vs 厦门3 - 老练照相馆
-DESCRIPTION:第一轮\n【主队】福州队\n【场地】福州海峡奥林匹克体育中心 (约60000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
+DESCRIPTION:第一轮\n【主队】福州队\n【场地】福州海峡奥林匹克体育中心
+ (约60000人)\n【备注】如遇重大活动或极端天
+ 气，赛程将进行调整，具体以最后公示为准。
 LOCATION:福州海峡奥林匹克体育中心
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -36,7 +38,9 @@ DTSTAMP:20260425T000000Z
 DTSTART;TZID=Asia/Shanghai:20260425T193500
 DTEND;TZID=Asia/Shanghai:20260425T213500
 SUMMARY:⚽ 第2场 龙岩2 vs 漳州0 - 老练照相馆
-DESCRIPTION:第一轮\n【主队】龙岩队\n【场地】长汀万人体育场 (约10000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
+DESCRIPTION:第一轮\n【主队】龙岩队\n【场地】长汀万人体育场
+ (约10000人)\n【备注】如遇重大活动或极端天气，赛程
+ 将进行调整，具体以最后公示为准。
 LOCATION:长汀万人体育场
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -49,7 +53,9 @@ DTSTAMP:20260425T000000Z
 DTSTART;TZID=Asia/Shanghai:20260425T193500
 DTEND;TZID=Asia/Shanghai:20260425T213500
 SUMMARY:⚽ 第3场 平潭0 vs 三明1 - 老练照相馆
-DESCRIPTION:第一轮\n【主队】平潭队\n【场地】平潭综合实验区综合训练中心体育场 (约10000人)\n【备注】如遇重大活动或极端天气，赛程将进行调整，具体以最后公示为准。
+DESCRIPTION:第一轮\n【主队】平潭队\n【场地】平潭综合实验区综合训练
+ 中心体育场 (约10000人)\n【备注】如遇重大活动或极端天气，
+ 赛程将进行调整，具体以最后公示为准。
 LOCATION:平潭综合实验区综合训练中心体育场
 SEQUENCE:0
 STATUS:CONFIRMED
